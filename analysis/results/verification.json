@@ -1,0 +1,21 @@
+{
+  "human_nuclei": 372816,
+  "human_features": 35475,
+  "unpooled_donors": 94,
+  "control_qc_cells": 13251,
+  "control_original_qc": 13251,
+  "14d_qc_cells": 9876,
+  "14d_original_qc": 9876,
+  "atlas_qc_cells": 34821,
+  "mouse_q05": 267,
+  "signature_concordant": 49,
+  "known_markers_in_signature": [
+    "OPN4",
+    "NDNF",
+    "IGF1",
+    "PRPH"
+  ],
+  "human_tests": 880,
+  "both_reference_candidate_pairs": 33,
+  "baseline_effect_correlation": 0.8002741915485423
+}

@@ -1,0 +1,18 @@
+{
+  "genes_tested": 11169,
+  "q05": 267,
+  "cv_auc": 0.9398496240601504,
+  "known_auc": 0.9774436090225563,
+  "atlas_cells": 34821,
+  "control_cells": 11612,
+  "injured_cells": 6279,
+  "resilient_types": [
+    10,
+    22,
+    31,
+    33,
+    40,
+    42,
+    43
+  ]
+}

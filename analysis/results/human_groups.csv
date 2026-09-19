@@ -1,0 +1,1476 @@
+donor_id,sampleid,author_cell_type,n_cells,tissue,study
+19-D005,Chen_a_10x3_Lobe_19_D005_NeuN,MG_OFF,27,peripheral region of retina,Chen_a
+19-D005,Chen_a_10x3_Lobe_19_D005_NeuN,MG_ON,4,peripheral region of retina,Chen_a
+19-D005,Chen_c_10x3_19_D005,HRGC10,5,macula lutea,Chen_c_GSE247157
+19-D005,Chen_c_10x3_19_D005,HRGC11,1,macula lutea,Chen_c_GSE247157
+19-D005,Chen_c_10x3_19_D005,HRGC12,1,macula lutea,Chen_c_GSE247157
+19-D005,Chen_c_10x3_19_D005,HRGC15,1,macula lutea,Chen_c_GSE247157
+19-D005,Chen_c_10x3_19_D005,HRGC17,1,macula lutea,Chen_c_GSE247157
+19-D005,Chen_c_10x3_19_D005,HRGC18,1,macula lutea,Chen_c_GSE247157
+19-D005,Chen_c_10x3_19_D005,HRGC21,1,macula lutea,Chen_c_GSE247157
+19-D005,Chen_c_10x3_19_D005,HRGC23,1,macula lutea,Chen_c_GSE247157
+19-D005,Chen_c_10x3_19_D005,HRGC7,2,macula lutea,Chen_c_GSE247157
+19-D005,Chen_c_10x3_19_D005,HRGC8,2,macula lutea,Chen_c_GSE247157
+19-D005,Chen_c_10x3_19_D005,HRGC9,3,macula lutea,Chen_c_GSE247157
+19-D005,Chen_c_10x3_19_D005,MG_OFF,56,macula lutea,Chen_c_GSE247157
+19-D005,Chen_c_10x3_19_D005,MG_ON,21,macula lutea,Chen_c_GSE247157
+19-D005,Chen_c_10x3_19_D005,PG_OFF,2,macula lutea,Chen_c_GSE247157
+19-D005,Chen_c_10x3_19_D005,PG_ON,4,macula lutea,Chen_c_GSE247157
+19-D008,Chen_a_10x3_Lobe_19_D008_NeuN,MG_OFF,73,peripheral region of retina,Chen_a
+19-D008,Chen_a_10x3_Lobe_19_D008_NeuN,MG_ON,22,peripheral region of retina,Chen_a
+19-D008,Chen_c_10x3_19_D008,MG_OFF,133,macula lutea,Chen_c_GSE247157
+19-D008,Chen_c_10x3_19_D008,MG_ON,80,macula lutea,Chen_c_GSE247157
+19-D008,Chen_rgc_10x3v31_19_D008_Mac_NeuN_T,HRGC10,5,macula lutea,Chen_rgc
+19-D008,Chen_rgc_10x3v31_19_D008_Mac_NeuN_T,HRGC12,1,macula lutea,Chen_rgc
+19-D008,Chen_rgc_10x3v31_19_D008_Mac_NeuN_T,HRGC13,1,macula lutea,Chen_rgc
+19-D008,Chen_rgc_10x3v31_19_D008_Mac_NeuN_T,HRGC18,1,macula lutea,Chen_rgc
+19-D008,Chen_rgc_10x3v31_19_D008_Mac_NeuN_T,HRGC23,1,macula lutea,Chen_rgc
+19-D008,Chen_rgc_10x3v31_19_D008_Mac_NeuN_T,HRGC7,26,macula lutea,Chen_rgc
+19-D008,Chen_rgc_10x3v31_19_D008_Mac_NeuN_T,HRGC8,5,macula lutea,Chen_rgc
+19-D008,Chen_rgc_10x3v31_19_D008_Mac_NeuN_T,HRGC9,2,macula lutea,Chen_rgc
+19-D008,Chen_rgc_10x3v31_19_D008_Mac_NeuN_T,MG_OFF,3826,macula lutea,Chen_rgc
+19-D008,Chen_rgc_10x3v31_19_D008_Mac_NeuN_T,MG_ON,3076,macula lutea,Chen_rgc
+19-D008,Chen_rgc_10x3v31_19_D008_Mac_NeuN_T,PG_OFF,19,macula lutea,Chen_rgc
+19-D008,Chen_rgc_10x3v31_19_D008_Mac_NeuN_T,PG_ON,11,macula lutea,Chen_rgc
+19-D008,Chen_rgc_10x3v31_19_D008_Mac_NeuN_T,ipRGC,14,macula lutea,Chen_rgc
+19-D009,Chen_a_10x3_Lobe_19_D009_NeuN,MG_OFF,35,peripheral region of retina,Chen_a
+19-D009,Chen_a_10x3_Lobe_19_D009_NeuN,MG_ON,12,peripheral region of retina,Chen_a
+19-D009,Chen_c_10x3_19_D009,MG_OFF,126,macula lutea,Chen_c_GSE247157
+19-D009,Chen_c_10x3_19_D009,MG_ON,93,macula lutea,Chen_c_GSE247157
+19-D009,Chen_rgc_10x3v31_19_D009_Mac_NeuN_T,HRGC10,3,macula lutea,Chen_rgc
+19-D009,Chen_rgc_10x3v31_19_D009_Mac_NeuN_T,HRGC14,1,macula lutea,Chen_rgc
+19-D009,Chen_rgc_10x3v31_19_D009_Mac_NeuN_T,HRGC15,1,macula lutea,Chen_rgc
+19-D009,Chen_rgc_10x3v31_19_D009_Mac_NeuN_T,HRGC18,1,macula lutea,Chen_rgc
+19-D009,Chen_rgc_10x3v31_19_D009_Mac_NeuN_T,HRGC20,1,macula lutea,Chen_rgc
+19-D009,Chen_rgc_10x3v31_19_D009_Mac_NeuN_T,HRGC21,1,macula lutea,Chen_rgc
+19-D009,Chen_rgc_10x3v31_19_D009_Mac_NeuN_T,HRGC22,1,macula lutea,Chen_rgc
+19-D009,Chen_rgc_10x3v31_19_D009_Mac_NeuN_T,HRGC23,1,macula lutea,Chen_rgc
+19-D009,Chen_rgc_10x3v31_19_D009_Mac_NeuN_T,HRGC7,40,macula lutea,Chen_rgc
+19-D009,Chen_rgc_10x3v31_19_D009_Mac_NeuN_T,HRGC8,21,macula lutea,Chen_rgc
+19-D009,Chen_rgc_10x3v31_19_D009_Mac_NeuN_T,MG_OFF,3722,macula lutea,Chen_rgc
+19-D009,Chen_rgc_10x3v31_19_D009_Mac_NeuN_T,MG_ON,2615,macula lutea,Chen_rgc
+19-D009,Chen_rgc_10x3v31_19_D009_Mac_NeuN_T,PG_OFF,25,macula lutea,Chen_rgc
+19-D009,Chen_rgc_10x3v31_19_D009_Mac_NeuN_T,PG_ON,15,macula lutea,Chen_rgc
+19-D009,Chen_rgc_10x3v31_19_D009_Mac_NeuN_T,ipRGC,15,macula lutea,Chen_rgc
+A23_5566_Atlanta,A23_5566_RNA_fovea,MG_OFF,219,fovea centralis,Chen_ancestry
+A23_5566_Atlanta,A23_5566_RNA_fovea,MG_ON,187,fovea centralis,Chen_ancestry
+BCM_22_0047,BCM_22_0047_RNA_macular,MG_OFF,86,macula lutea,Chen_ancestry
+BCM_22_0047,BCM_22_0047_RNA_macular,MG_ON,35,macula lutea,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_fovea,DS_ON,3,fovea centralis,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_fovea,HRGC10,5,fovea centralis,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_fovea,HRGC11,1,fovea centralis,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_fovea,HRGC12,2,fovea centralis,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_fovea,HRGC14,1,fovea centralis,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_fovea,HRGC16,4,fovea centralis,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_fovea,HRGC18,1,fovea centralis,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_fovea,HRGC20,1,fovea centralis,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_fovea,HRGC7,19,fovea centralis,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_fovea,HRGC8,6,fovea centralis,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_fovea,HRGC9,6,fovea centralis,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_fovea,MG_OFF,565,fovea centralis,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_fovea,MG_ON,442,fovea centralis,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_fovea,PG_OFF,22,fovea centralis,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_fovea,PG_ON,10,fovea centralis,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_fovea,ipRGC,23,fovea centralis,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_lobe_NeuN,HRGC11,13,peripheral region of retina,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_lobe_NeuN,HRGC14,1,peripheral region of retina,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_lobe_NeuN,HRGC7,3,peripheral region of retina,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_lobe_NeuN,HRGC9,1,peripheral region of retina,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_lobe_NeuN,MG_OFF,772,peripheral region of retina,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_lobe_NeuN,MG_ON,133,peripheral region of retina,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_lobe_NeuN,PG_ON,1,peripheral region of retina,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_lobe_NeuN,ipRGC,2,peripheral region of retina,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_lobe_s1,MG_OFF,1,peripheral region of retina,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_lobe_s3,MG_OFF,52,peripheral region of retina,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_lobe_s3,MG_ON,6,peripheral region of retina,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_macular,MG_OFF,245,macula lutea,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_macular,MG_ON,105,macula lutea,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_macular_NeuN,DS_ON,7,macula lutea,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_macular_NeuN,HRGC10,35,macula lutea,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_macular_NeuN,HRGC11,1,macula lutea,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_macular_NeuN,HRGC12,29,macula lutea,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_macular_NeuN,HRGC14,32,macula lutea,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_macular_NeuN,HRGC15,13,macula lutea,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_macular_NeuN,HRGC16,37,macula lutea,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_macular_NeuN,HRGC17,9,macula lutea,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_macular_NeuN,HRGC18,1,macula lutea,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_macular_NeuN,HRGC19,2,macula lutea,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_macular_NeuN,HRGC20,4,macula lutea,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_macular_NeuN,HRGC21,2,macula lutea,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_macular_NeuN,HRGC22,3,macula lutea,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_macular_NeuN,HRGC23,3,macula lutea,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_macular_NeuN,HRGC7,87,macula lutea,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_macular_NeuN,HRGC8,11,macula lutea,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_macular_NeuN,HRGC9,29,macula lutea,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_macular_NeuN,MG_OFF,4175,macula lutea,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_macular_NeuN,MG_ON,1899,macula lutea,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_macular_NeuN,PG_OFF,54,macula lutea,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_macular_NeuN,PG_ON,143,macula lutea,Chen_ancestry
+BCM_22_0183,BCM_22_0183_RNA_macular_NeuN,ipRGC,11,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_NeuN,DS_ON,2,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_NeuN,HRGC10,13,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_NeuN,HRGC11,1,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_NeuN,HRGC12,10,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_NeuN,HRGC13,75,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_NeuN,HRGC14,7,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_NeuN,HRGC15,15,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_NeuN,HRGC16,5,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_NeuN,HRGC17,3,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_NeuN,HRGC18,2,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_NeuN,HRGC20,1,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_NeuN,HRGC21,1,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_NeuN,HRGC22,1,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_NeuN,HRGC23,2,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_NeuN,HRGC24,5,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_NeuN,HRGC7,36,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_NeuN,HRGC8,2,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_NeuN,HRGC9,17,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_NeuN,MG_OFF,1003,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_NeuN,MG_ON,424,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_NeuN,PG_OFF,118,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_NeuN,PG_ON,68,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_NeuN,ipRGC,7,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_s1,MG_ON,1,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_s2,HRGC10,1,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_s2,HRGC11,23,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_s2,HRGC13,18,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_s2,HRGC16,9,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_s2,HRGC20,3,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_s2,HRGC23,1,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_s2,HRGC24,5,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_s2,HRGC7,3,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_s2,HRGC8,5,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_s2,MG_OFF,613,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_s2,MG_ON,279,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_s2,PG_OFF,31,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_s2,PG_ON,18,macula lutea,Chen_ancestry
+BCM_22_0200,BCM_22_0200_RNA_macular_s2,ipRGC,11,macula lutea,Chen_ancestry
+BCM_22_0389,BCM_22_0389_RNA_fovea,HRGC10,1,fovea centralis,Chen_ancestry
+BCM_22_0389,BCM_22_0389_RNA_fovea,HRGC16,25,fovea centralis,Chen_ancestry
+BCM_22_0389,BCM_22_0389_RNA_fovea,HRGC7,6,fovea centralis,Chen_ancestry
+BCM_22_0389,BCM_22_0389_RNA_fovea,HRGC9,2,fovea centralis,Chen_ancestry
+BCM_22_0389,BCM_22_0389_RNA_fovea,MG_OFF,2,fovea centralis,Chen_ancestry
+BCM_22_0389,BCM_22_0389_RNA_fovea,MG_ON,2,fovea centralis,Chen_ancestry
+BCM_22_0389,BCM_22_0389_RNA_fovea,PG_OFF,18,fovea centralis,Chen_ancestry
+BCM_22_0389,BCM_22_0389_RNA_fovea,PG_ON,3,fovea centralis,Chen_ancestry
+BCM_22_0389,BCM_22_0389_RNA_lobe,MG_OFF,27,peripheral region of retina,Chen_ancestry
+BCM_22_0389,BCM_22_0389_RNA_lobe,MG_ON,7,peripheral region of retina,Chen_ancestry
+BCM_22_0389,BCM_22_0389_RNA_lobe_NeuN,HRGC11,70,peripheral region of retina,Chen_ancestry
+BCM_22_0389,BCM_22_0389_RNA_lobe_NeuN,HRGC7,2,peripheral region of retina,Chen_ancestry
+BCM_22_0389,BCM_22_0389_RNA_lobe_NeuN,HRGC8,2,peripheral region of retina,Chen_ancestry
+BCM_22_0389,BCM_22_0389_RNA_lobe_NeuN,MG_OFF,427,peripheral region of retina,Chen_ancestry
+BCM_22_0389,BCM_22_0389_RNA_lobe_NeuN,MG_ON,177,peripheral region of retina,Chen_ancestry
+BCM_22_0395,BCM_22_0395_RNA_macular,MG_OFF,82,macula lutea,Chen_ancestry
+BCM_22_0395,BCM_22_0395_RNA_macular,MG_ON,49,macula lutea,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_fovea,HRGC10,1,fovea centralis,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_fovea,HRGC11,2,fovea centralis,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_fovea,HRGC13,16,fovea centralis,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_fovea,HRGC20,6,fovea centralis,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_fovea,HRGC24,10,fovea centralis,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_fovea,HRGC7,26,fovea centralis,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_fovea,HRGC8,16,fovea centralis,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_fovea,MG_OFF,448,fovea centralis,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_fovea,MG_ON,107,fovea centralis,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_fovea,PG_OFF,21,fovea centralis,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_fovea,PG_ON,8,fovea centralis,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_fovea,ipRGC,23,fovea centralis,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_macular,HRGC11,21,macula lutea,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_macular,HRGC12,2,macula lutea,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_macular,HRGC19,1,macula lutea,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_macular,HRGC20,1,macula lutea,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_macular,HRGC7,8,macula lutea,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_macular,MG_OFF,202,macula lutea,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_macular,MG_ON,52,macula lutea,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_macular,PG_OFF,3,macula lutea,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_macular,PG_ON,4,macula lutea,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_macular_NeuN,DS_ON,22,macula lutea,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_macular_NeuN,HRGC10,38,macula lutea,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_macular_NeuN,HRGC11,15,macula lutea,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_macular_NeuN,HRGC12,36,macula lutea,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_macular_NeuN,HRGC13,25,macula lutea,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_macular_NeuN,HRGC14,3,macula lutea,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_macular_NeuN,HRGC15,22,macula lutea,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_macular_NeuN,HRGC16,26,macula lutea,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_macular_NeuN,HRGC17,14,macula lutea,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_macular_NeuN,HRGC18,5,macula lutea,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_macular_NeuN,HRGC19,1,macula lutea,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_macular_NeuN,HRGC20,1,macula lutea,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_macular_NeuN,HRGC21,11,macula lutea,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_macular_NeuN,HRGC22,10,macula lutea,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_macular_NeuN,HRGC23,6,macula lutea,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_macular_NeuN,HRGC24,32,macula lutea,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_macular_NeuN,HRGC7,234,macula lutea,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_macular_NeuN,HRGC8,12,macula lutea,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_macular_NeuN,HRGC9,44,macula lutea,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_macular_NeuN,MG_OFF,4750,macula lutea,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_macular_NeuN,MG_ON,1358,macula lutea,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_macular_NeuN,PG_OFF,184,macula lutea,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_macular_NeuN,PG_ON,288,macula lutea,Chen_ancestry
+BCM_22_0434,BCM_22_0434_RNA_macular_NeuN,ipRGC,9,macula lutea,Chen_ancestry
+BCM_22_0458,BCM_22_0458_RNA_fovea,MG_OFF,10,fovea centralis,Chen_ancestry
+BCM_22_0458,BCM_22_0458_RNA_fovea,MG_ON,3,fovea centralis,Chen_ancestry
+BCM_22_0458,BCM_22_0458_RNA_macular_NeuN,MG_OFF,83,macula lutea,Chen_ancestry
+BCM_22_0458,BCM_22_0458_RNA_macular_NeuN,MG_ON,4,macula lutea,Chen_ancestry
+BCM_22_0500,BCM_22_0500_RNA_fovea,MG_OFF,778,fovea centralis,Chen_ancestry
+BCM_22_0500,BCM_22_0500_RNA_fovea,MG_ON,733,fovea centralis,Chen_ancestry
+BCM_22_0769,BCM_22_0769_RNA_fovea,MG_OFF,13,fovea centralis,Chen_ancestry
+BCM_22_0769,BCM_22_0769_RNA_fovea,MG_ON,7,fovea centralis,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular,HRGC11,15,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular,HRGC12,2,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular,HRGC13,8,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular,HRGC14,6,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular,HRGC15,2,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular,HRGC17,2,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular,HRGC19,1,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular,HRGC20,4,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular,HRGC22,1,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular,HRGC23,1,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular,HRGC24,8,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular,HRGC7,27,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular,HRGC8,10,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular,HRGC9,3,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular,MG_OFF,885,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular,MG_ON,706,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular,PG_OFF,23,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular,PG_ON,38,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular,ipRGC,10,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular_NeuN,DS_ON,3,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular_NeuN,HRGC10,18,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular_NeuN,HRGC11,55,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular_NeuN,HRGC12,54,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular_NeuN,HRGC13,187,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular_NeuN,HRGC14,20,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular_NeuN,HRGC15,37,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular_NeuN,HRGC16,12,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular_NeuN,HRGC17,32,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular_NeuN,HRGC18,7,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular_NeuN,HRGC20,6,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular_NeuN,HRGC22,3,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular_NeuN,HRGC23,1,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular_NeuN,HRGC24,23,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular_NeuN,HRGC7,498,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular_NeuN,HRGC8,19,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular_NeuN,HRGC9,63,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular_NeuN,MG_OFF,2796,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular_NeuN,MG_ON,2387,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular_NeuN,PG_OFF,546,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular_NeuN,PG_ON,298,macula lutea,Chen_ancestry
+BCM_22_0784,BCM_22_0784_RNA_macular_NeuN,ipRGC,1,macula lutea,Chen_ancestry
+BCM_22_0849,BCM_22_0849_RNA_fovea,MG_OFF,110,fovea centralis,Chen_ancestry
+BCM_22_0849,BCM_22_0849_RNA_fovea,MG_ON,357,fovea centralis,Chen_ancestry
+BCM_22_0867,BCM_22_0867_RNA_fovea,HRGC20,1,fovea centralis,Chen_ancestry
+BCM_22_0867,BCM_22_0867_RNA_fovea,HRGC7,9,fovea centralis,Chen_ancestry
+BCM_22_0867,BCM_22_0867_RNA_fovea,HRGC8,4,fovea centralis,Chen_ancestry
+BCM_22_0867,BCM_22_0867_RNA_fovea,MG_OFF,681,fovea centralis,Chen_ancestry
+BCM_22_0867,BCM_22_0867_RNA_fovea,MG_ON,563,fovea centralis,Chen_ancestry
+BCM_22_0867,BCM_22_0867_RNA_fovea,PG_OFF,1,fovea centralis,Chen_ancestry
+BCM_22_0890,BCM_22_0890_RNA_fovea,MG_OFF,1006,fovea centralis,Chen_ancestry
+BCM_22_0890,BCM_22_0890_RNA_fovea,MG_ON,869,fovea centralis,Chen_ancestry
+BCM_22_0896,BCM_22_0896_RNA_fovea,MG_OFF,643,fovea centralis,Chen_ancestry
+BCM_22_0896,BCM_22_0896_RNA_fovea,MG_ON,540,fovea centralis,Chen_ancestry
+BCM_23_0131,BCM_23_0131_RNA_fovea,MG_OFF,439,fovea centralis,Chen_ancestry
+BCM_23_0131,BCM_23_0131_RNA_fovea,MG_ON,344,fovea centralis,Chen_ancestry
+BCM_23_0131,BCM_23_0131_RNA_lobe,MG_OFF,13,peripheral region of retina,Chen_ancestry
+BCM_23_0131,BCM_23_0131_RNA_lobe,MG_ON,3,peripheral region of retina,Chen_ancestry
+BCM_23_0231,BCM_23_0231_RNA_fovea,MG_OFF,660,fovea centralis,Chen_ancestry
+BCM_23_0231,BCM_23_0231_RNA_fovea,MG_ON,563,fovea centralis,Chen_ancestry
+BCM_23_0313,BCM_23_0313_RNA_fovea,MG_OFF,66,fovea centralis,Chen_ancestry
+BCM_23_0313,BCM_23_0313_RNA_fovea,MG_ON,103,fovea centralis,Chen_ancestry
+BCM_23_0334,BCM_23_0334_RNA_fovea,HRGC11,1,fovea centralis,Chen_ancestry
+BCM_23_0334,BCM_23_0334_RNA_fovea,HRGC12,1,fovea centralis,Chen_ancestry
+BCM_23_0334,BCM_23_0334_RNA_fovea,HRGC13,1,fovea centralis,Chen_ancestry
+BCM_23_0334,BCM_23_0334_RNA_fovea,HRGC7,24,fovea centralis,Chen_ancestry
+BCM_23_0334,BCM_23_0334_RNA_fovea,HRGC8,5,fovea centralis,Chen_ancestry
+BCM_23_0334,BCM_23_0334_RNA_fovea,MG_OFF,510,fovea centralis,Chen_ancestry
+BCM_23_0334,BCM_23_0334_RNA_fovea,MG_ON,471,fovea centralis,Chen_ancestry
+BCM_23_0334,BCM_23_0334_RNA_fovea,PG_OFF,14,fovea centralis,Chen_ancestry
+BCM_23_0334,BCM_23_0334_RNA_fovea,PG_ON,1,fovea centralis,Chen_ancestry
+BCM_23_0334,BCM_23_0334_RNA_fovea,ipRGC,2,fovea centralis,Chen_ancestry
+BCM_23_0334,BCM_23_0334_RNA_fovea_s2,HRGC11,5,fovea centralis,Chen_ancestry
+BCM_23_0334,BCM_23_0334_RNA_fovea_s2,HRGC12,2,fovea centralis,Chen_ancestry
+BCM_23_0334,BCM_23_0334_RNA_fovea_s2,HRGC15,2,fovea centralis,Chen_ancestry
+BCM_23_0334,BCM_23_0334_RNA_fovea_s2,HRGC17,2,fovea centralis,Chen_ancestry
+BCM_23_0334,BCM_23_0334_RNA_fovea_s2,HRGC19,5,fovea centralis,Chen_ancestry
+BCM_23_0334,BCM_23_0334_RNA_fovea_s2,HRGC20,1,fovea centralis,Chen_ancestry
+BCM_23_0334,BCM_23_0334_RNA_fovea_s2,HRGC21,2,fovea centralis,Chen_ancestry
+BCM_23_0334,BCM_23_0334_RNA_fovea_s2,HRGC22,1,fovea centralis,Chen_ancestry
+BCM_23_0334,BCM_23_0334_RNA_fovea_s2,HRGC24,1,fovea centralis,Chen_ancestry
+BCM_23_0334,BCM_23_0334_RNA_fovea_s2,HRGC7,28,fovea centralis,Chen_ancestry
+BCM_23_0334,BCM_23_0334_RNA_fovea_s2,HRGC8,22,fovea centralis,Chen_ancestry
+BCM_23_0334,BCM_23_0334_RNA_fovea_s2,MG_OFF,429,fovea centralis,Chen_ancestry
+BCM_23_0334,BCM_23_0334_RNA_fovea_s2,MG_ON,357,fovea centralis,Chen_ancestry
+BCM_23_0334,BCM_23_0334_RNA_fovea_s2,PG_OFF,29,fovea centralis,Chen_ancestry
+BCM_23_0334,BCM_23_0334_RNA_fovea_s2,PG_ON,30,fovea centralis,Chen_ancestry
+BCM_23_0334,BCM_23_0334_RNA_fovea_s2,ipRGC,5,fovea centralis,Chen_ancestry
+BCM_23_0358,BCM_23_0358_RNA_fovea,HRGC10,2,fovea centralis,Chen_ancestry
+BCM_23_0358,BCM_23_0358_RNA_fovea,HRGC11,1,fovea centralis,Chen_ancestry
+BCM_23_0358,BCM_23_0358_RNA_fovea,HRGC13,6,fovea centralis,Chen_ancestry
+BCM_23_0358,BCM_23_0358_RNA_fovea,HRGC7,38,fovea centralis,Chen_ancestry
+BCM_23_0358,BCM_23_0358_RNA_fovea,MG_OFF,630,fovea centralis,Chen_ancestry
+BCM_23_0358,BCM_23_0358_RNA_fovea,MG_ON,656,fovea centralis,Chen_ancestry
+BCM_23_0358,BCM_23_0358_RNA_fovea,PG_OFF,39,fovea centralis,Chen_ancestry
+BCM_23_0358,BCM_23_0358_RNA_fovea,PG_ON,15,fovea centralis,Chen_ancestry
+BCM_23_0358,BCM_23_0358_RNA_fovea,ipRGC,6,fovea centralis,Chen_ancestry
+BCM_23_0574,BCM_23_0574_RNA_fovea,MG_OFF,947,fovea centralis,Chen_ancestry
+BCM_23_0574,BCM_23_0574_RNA_fovea,MG_ON,911,fovea centralis,Chen_ancestry
+BCM_23_0574,BCM_23_0574_RNA_fovea_s2,HRGC14,1,fovea centralis,Chen_ancestry
+BCM_23_0574,BCM_23_0574_RNA_fovea_s2,HRGC16,1,fovea centralis,Chen_ancestry
+BCM_23_0574,BCM_23_0574_RNA_fovea_s2,HRGC7,4,fovea centralis,Chen_ancestry
+BCM_23_0574,BCM_23_0574_RNA_fovea_s2,HRGC8,1,fovea centralis,Chen_ancestry
+BCM_23_0574,BCM_23_0574_RNA_fovea_s2,MG_OFF,126,fovea centralis,Chen_ancestry
+BCM_23_0574,BCM_23_0574_RNA_fovea_s2,MG_ON,88,fovea centralis,Chen_ancestry
+BCM_23_0574,BCM_23_0574_RNA_fovea_s2,PG_OFF,2,fovea centralis,Chen_ancestry
+BCM_23_0574,BCM_23_0574_RNA_fovea_s2,PG_ON,2,fovea centralis,Chen_ancestry
+BCM_23_0578,BCM_23_0578_RNA_fovea,MG_OFF,887,fovea centralis,Chen_ancestry
+BCM_23_0578,BCM_23_0578_RNA_fovea,MG_ON,620,fovea centralis,Chen_ancestry
+BCM_23_0792,BCM_23_0792_RNA_fovea,HRGC11,3,fovea centralis,Chen_ancestry
+BCM_23_0792,BCM_23_0792_RNA_fovea,HRGC16,5,fovea centralis,Chen_ancestry
+BCM_23_0792,BCM_23_0792_RNA_fovea,HRGC7,8,fovea centralis,Chen_ancestry
+BCM_23_0792,BCM_23_0792_RNA_fovea,HRGC8,4,fovea centralis,Chen_ancestry
+BCM_23_0792,BCM_23_0792_RNA_fovea,MG_OFF,632,fovea centralis,Chen_ancestry
+BCM_23_0792,BCM_23_0792_RNA_fovea,MG_ON,1265,fovea centralis,Chen_ancestry
+BCM_23_0792,BCM_23_0792_RNA_fovea,PG_OFF,3,fovea centralis,Chen_ancestry
+BCM_23_0792,BCM_23_0792_RNA_fovea,PG_ON,2,fovea centralis,Chen_ancestry
+BCM_23_0792,BCM_23_0792_RNA_fovea,ipRGC,5,fovea centralis,Chen_ancestry
+BCM_23_1340,BCM_23_1340_RNA_fovea,MG_OFF,250,fovea centralis,Chen_ancestry
+BCM_23_1340,BCM_23_1340_RNA_fovea,MG_ON,493,fovea centralis,Chen_ancestry
+BCM_23_1401,BCM_23_1401_RNA_fovea,HRGC11,14,fovea centralis,Chen_ancestry
+BCM_23_1401,BCM_23_1401_RNA_fovea,HRGC19,1,fovea centralis,Chen_ancestry
+BCM_23_1401,BCM_23_1401_RNA_fovea,HRGC20,2,fovea centralis,Chen_ancestry
+BCM_23_1401,BCM_23_1401_RNA_fovea,HRGC7,15,fovea centralis,Chen_ancestry
+BCM_23_1401,BCM_23_1401_RNA_fovea,HRGC8,14,fovea centralis,Chen_ancestry
+BCM_23_1401,BCM_23_1401_RNA_fovea,HRGC9,1,fovea centralis,Chen_ancestry
+BCM_23_1401,BCM_23_1401_RNA_fovea,MG_OFF,1742,fovea centralis,Chen_ancestry
+BCM_23_1401,BCM_23_1401_RNA_fovea,MG_ON,1519,fovea centralis,Chen_ancestry
+BCM_23_1401,BCM_23_1401_RNA_fovea,PG_OFF,16,fovea centralis,Chen_ancestry
+BCM_23_1401,BCM_23_1401_RNA_fovea,PG_ON,2,fovea centralis,Chen_ancestry
+BCM_23_1401,BCM_23_1401_RNA_fovea,ipRGC,1,fovea centralis,Chen_ancestry
+BCM_23_1448,BCM_23_1448_RNA_fovea,MG_OFF,914,fovea centralis,Chen_ancestry
+BCM_23_1448,BCM_23_1448_RNA_fovea,MG_ON,758,fovea centralis,Chen_ancestry
+BCM_23_1556,BCM_23_1556_RNA_fovea_s1,MG_OFF,1006,fovea centralis,Chen_ancestry
+BCM_23_1556,BCM_23_1556_RNA_fovea_s1,MG_ON,932,fovea centralis,Chen_ancestry
+BCM_23_1556,BCM_23_1556_RNA_fovea_s2,HRGC11,2,fovea centralis,Chen_ancestry
+BCM_23_1556,BCM_23_1556_RNA_fovea_s2,HRGC12,1,fovea centralis,Chen_ancestry
+BCM_23_1556,BCM_23_1556_RNA_fovea_s2,HRGC16,1,fovea centralis,Chen_ancestry
+BCM_23_1556,BCM_23_1556_RNA_fovea_s2,HRGC19,2,fovea centralis,Chen_ancestry
+BCM_23_1556,BCM_23_1556_RNA_fovea_s2,HRGC7,4,fovea centralis,Chen_ancestry
+BCM_23_1556,BCM_23_1556_RNA_fovea_s2,HRGC8,1,fovea centralis,Chen_ancestry
+BCM_23_1556,BCM_23_1556_RNA_fovea_s2,MG_OFF,182,fovea centralis,Chen_ancestry
+BCM_23_1556,BCM_23_1556_RNA_fovea_s2,MG_ON,211,fovea centralis,Chen_ancestry
+BCM_23_1556,BCM_23_1556_RNA_fovea_s2,PG_OFF,1,fovea centralis,Chen_ancestry
+BCM_23_1556,BCM_23_1556_RNA_fovea_s2,PG_ON,1,fovea centralis,Chen_ancestry
+BCM_24_0080,BCM_24_0080_RNA_fovea,MG_OFF,26,fovea centralis,Chen_ancestry
+BCM_24_0080,BCM_24_0080_RNA_fovea,MG_ON,27,fovea centralis,Chen_ancestry
+Chen_17_D013,Chen_b_17D013_lobe_NeuNT,MG_OFF,5,peripheral region of retina,Chen_b_GSE226108
+Chen_17_D013,Chen_b_17D013_lobe_NeuNT,MG_ON,2,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D003,Chen_a_10x3_Lobe_19_D003_NeuN,MG_OFF,28,peripheral region of retina,Chen_a
+Chen_19_D003,Chen_a_10x3_Lobe_19_D003_NeuN,MG_ON,9,peripheral region of retina,Chen_a
+Chen_19_D003,Chen_c_10x3_19_D003,MG_OFF,170,macula lutea,Chen_c_GSE247157
+Chen_19_D003,Chen_c_10x3_19_D003,MG_ON,102,macula lutea,Chen_c_GSE247157
+Chen_19_D006,Chen_a_10x3_Lobe_19_D006_NeuN,MG_OFF,61,peripheral region of retina,Chen_a
+Chen_19_D006,Chen_a_10x3_Lobe_19_D006_NeuN,MG_ON,44,peripheral region of retina,Chen_a
+Chen_19_D006,Chen_c_10x3_19_D006,MG_OFF,263,macula lutea,Chen_c_GSE247157
+Chen_19_D006,Chen_c_10x3_19_D006,MG_ON,194,macula lutea,Chen_c_GSE247157
+Chen_19_D007,Chen_a_10x3_Lobe_19_D007_NeuN,MG_OFF,1,peripheral region of retina,Chen_a
+Chen_19_D007,Chen_a_10x3_Lobe_19_D007_NeuN,MG_ON,1,peripheral region of retina,Chen_a
+Chen_19_D007,Chen_c_10x3_19_D007,MG_OFF,137,macula lutea,Chen_c_GSE247157
+Chen_19_D007,Chen_c_10x3_19_D007,MG_ON,109,macula lutea,Chen_c_GSE247157
+Chen_19_D007,Chen_rgc_10x3V31_19_D007_Macular_NeuN_T,DS_ON,1,macula lutea,Chen_rgc
+Chen_19_D007,Chen_rgc_10x3V31_19_D007_Macular_NeuN_T,HRGC10,15,macula lutea,Chen_rgc
+Chen_19_D007,Chen_rgc_10x3V31_19_D007_Macular_NeuN_T,HRGC11,1,macula lutea,Chen_rgc
+Chen_19_D007,Chen_rgc_10x3V31_19_D007_Macular_NeuN_T,HRGC12,1,macula lutea,Chen_rgc
+Chen_19_D007,Chen_rgc_10x3V31_19_D007_Macular_NeuN_T,HRGC14,9,macula lutea,Chen_rgc
+Chen_19_D007,Chen_rgc_10x3V31_19_D007_Macular_NeuN_T,HRGC15,5,macula lutea,Chen_rgc
+Chen_19_D007,Chen_rgc_10x3V31_19_D007_Macular_NeuN_T,HRGC17,1,macula lutea,Chen_rgc
+Chen_19_D007,Chen_rgc_10x3V31_19_D007_Macular_NeuN_T,HRGC18,1,macula lutea,Chen_rgc
+Chen_19_D007,Chen_rgc_10x3V31_19_D007_Macular_NeuN_T,HRGC19,2,macula lutea,Chen_rgc
+Chen_19_D007,Chen_rgc_10x3V31_19_D007_Macular_NeuN_T,HRGC21,1,macula lutea,Chen_rgc
+Chen_19_D007,Chen_rgc_10x3V31_19_D007_Macular_NeuN_T,HRGC22,1,macula lutea,Chen_rgc
+Chen_19_D007,Chen_rgc_10x3V31_19_D007_Macular_NeuN_T,HRGC23,6,macula lutea,Chen_rgc
+Chen_19_D007,Chen_rgc_10x3V31_19_D007_Macular_NeuN_T,HRGC7,53,macula lutea,Chen_rgc
+Chen_19_D007,Chen_rgc_10x3V31_19_D007_Macular_NeuN_T,HRGC8,3,macula lutea,Chen_rgc
+Chen_19_D007,Chen_rgc_10x3V31_19_D007_Macular_NeuN_T,HRGC9,16,macula lutea,Chen_rgc
+Chen_19_D007,Chen_rgc_10x3V31_19_D007_Macular_NeuN_T,MG_OFF,7969,macula lutea,Chen_rgc
+Chen_19_D007,Chen_rgc_10x3V31_19_D007_Macular_NeuN_T,MG_ON,7746,macula lutea,Chen_rgc
+Chen_19_D007,Chen_rgc_10x3V31_19_D007_Macular_NeuN_T,PG_OFF,120,macula lutea,Chen_rgc
+Chen_19_D007,Chen_rgc_10x3V31_19_D007_Macular_NeuN_T,PG_ON,42,macula lutea,Chen_rgc
+Chen_19_D007,Chen_rgc_10x3V31_19_D007_Macular_NeuN_T,ipRGC,29,macula lutea,Chen_rgc
+Chen_19_D010,Chen_a_10x3_Lobe_19_D010_NeuN,MG_OFF,10,peripheral region of retina,Chen_a
+Chen_19_D010,Chen_c_10x3_19_D010,HRGC11,3,macula lutea,Chen_c_GSE247157
+Chen_19_D010,Chen_c_10x3_19_D010,HRGC15,1,macula lutea,Chen_c_GSE247157
+Chen_19_D010,Chen_c_10x3_19_D010,HRGC19,3,macula lutea,Chen_c_GSE247157
+Chen_19_D010,Chen_c_10x3_19_D010,HRGC22,1,macula lutea,Chen_c_GSE247157
+Chen_19_D010,Chen_c_10x3_19_D010,HRGC7,8,macula lutea,Chen_c_GSE247157
+Chen_19_D010,Chen_c_10x3_19_D010,HRGC8,16,macula lutea,Chen_c_GSE247157
+Chen_19_D010,Chen_c_10x3_19_D010,HRGC9,1,macula lutea,Chen_c_GSE247157
+Chen_19_D010,Chen_c_10x3_19_D010,MG_OFF,196,macula lutea,Chen_c_GSE247157
+Chen_19_D010,Chen_c_10x3_19_D010,MG_ON,97,macula lutea,Chen_c_GSE247157
+Chen_19_D010,Chen_c_10x3_19_D010,PG_OFF,4,macula lutea,Chen_c_GSE247157
+Chen_19_D010,Chen_c_10x3_19_D010,PG_ON,10,macula lutea,Chen_c_GSE247157
+Chen_19_D010,Chen_c_10x3_19_D010,ipRGC,4,macula lutea,Chen_c_GSE247157
+Chen_19_D011,Chen_a_10x3_Lobe_19_D011_NeuN,MG_OFF,231,peripheral region of retina,Chen_a
+Chen_19_D011,Chen_a_10x3_Lobe_19_D011_NeuN,MG_ON,46,peripheral region of retina,Chen_a
+Chen_19_D011,Chen_c_10x3_19_D011,HRGC11,2,macula lutea,Chen_c_GSE247157
+Chen_19_D011,Chen_c_10x3_19_D011,HRGC12,1,macula lutea,Chen_c_GSE247157
+Chen_19_D011,Chen_c_10x3_19_D011,HRGC14,2,macula lutea,Chen_c_GSE247157
+Chen_19_D011,Chen_c_10x3_19_D011,HRGC16,2,macula lutea,Chen_c_GSE247157
+Chen_19_D011,Chen_c_10x3_19_D011,HRGC18,2,macula lutea,Chen_c_GSE247157
+Chen_19_D011,Chen_c_10x3_19_D011,HRGC20,2,macula lutea,Chen_c_GSE247157
+Chen_19_D011,Chen_c_10x3_19_D011,HRGC7,12,macula lutea,Chen_c_GSE247157
+Chen_19_D011,Chen_c_10x3_19_D011,HRGC8,12,macula lutea,Chen_c_GSE247157
+Chen_19_D011,Chen_c_10x3_19_D011,HRGC9,1,macula lutea,Chen_c_GSE247157
+Chen_19_D011,Chen_c_10x3_19_D011,MG_OFF,244,macula lutea,Chen_c_GSE247157
+Chen_19_D011,Chen_c_10x3_19_D011,MG_ON,143,macula lutea,Chen_c_GSE247157
+Chen_19_D011,Chen_c_10x3_19_D011,PG_OFF,7,macula lutea,Chen_c_GSE247157
+Chen_19_D011,Chen_c_10x3_19_D011,PG_ON,16,macula lutea,Chen_c_GSE247157
+Chen_19_D011,Chen_c_10x3_19_D011,ipRGC,6,macula lutea,Chen_c_GSE247157
+Chen_19_D011,Chen_rgc_10x3v31_19_D011_Macular_NeuN_T,HRGC10,79,macula lutea,Chen_rgc
+Chen_19_D011,Chen_rgc_10x3v31_19_D011_Macular_NeuN_T,HRGC11,3,macula lutea,Chen_rgc
+Chen_19_D011,Chen_rgc_10x3v31_19_D011_Macular_NeuN_T,HRGC12,25,macula lutea,Chen_rgc
+Chen_19_D011,Chen_rgc_10x3v31_19_D011_Macular_NeuN_T,HRGC14,3,macula lutea,Chen_rgc
+Chen_19_D011,Chen_rgc_10x3v31_19_D011_Macular_NeuN_T,HRGC15,52,macula lutea,Chen_rgc
+Chen_19_D011,Chen_rgc_10x3v31_19_D011_Macular_NeuN_T,HRGC16,47,macula lutea,Chen_rgc
+Chen_19_D011,Chen_rgc_10x3v31_19_D011_Macular_NeuN_T,HRGC17,6,macula lutea,Chen_rgc
+Chen_19_D011,Chen_rgc_10x3v31_19_D011_Macular_NeuN_T,HRGC18,18,macula lutea,Chen_rgc
+Chen_19_D011,Chen_rgc_10x3v31_19_D011_Macular_NeuN_T,HRGC19,2,macula lutea,Chen_rgc
+Chen_19_D011,Chen_rgc_10x3v31_19_D011_Macular_NeuN_T,HRGC20,10,macula lutea,Chen_rgc
+Chen_19_D011,Chen_rgc_10x3v31_19_D011_Macular_NeuN_T,HRGC21,8,macula lutea,Chen_rgc
+Chen_19_D011,Chen_rgc_10x3v31_19_D011_Macular_NeuN_T,HRGC22,11,macula lutea,Chen_rgc
+Chen_19_D011,Chen_rgc_10x3v31_19_D011_Macular_NeuN_T,HRGC23,9,macula lutea,Chen_rgc
+Chen_19_D011,Chen_rgc_10x3v31_19_D011_Macular_NeuN_T,HRGC24,1,macula lutea,Chen_rgc
+Chen_19_D011,Chen_rgc_10x3v31_19_D011_Macular_NeuN_T,HRGC7,163,macula lutea,Chen_rgc
+Chen_19_D011,Chen_rgc_10x3v31_19_D011_Macular_NeuN_T,HRGC8,25,macula lutea,Chen_rgc
+Chen_19_D011,Chen_rgc_10x3v31_19_D011_Macular_NeuN_T,HRGC9,53,macula lutea,Chen_rgc
+Chen_19_D011,Chen_rgc_10x3v31_19_D011_Macular_NeuN_T,MG_OFF,14295,macula lutea,Chen_rgc
+Chen_19_D011,Chen_rgc_10x3v31_19_D011_Macular_NeuN_T,MG_ON,8039,macula lutea,Chen_rgc
+Chen_19_D011,Chen_rgc_10x3v31_19_D011_Macular_NeuN_T,PG_OFF,217,macula lutea,Chen_rgc
+Chen_19_D011,Chen_rgc_10x3v31_19_D011_Macular_NeuN_T,PG_ON,293,macula lutea,Chen_rgc
+Chen_19_D011,Chen_rgc_10x3v31_19_D011_Macular_NeuN_T,ipRGC,79,macula lutea,Chen_rgc
+Chen_19_D013,Chen_b_19D013_fovea,MG_OFF,148,fovea centralis,Chen_b_GSE226108
+Chen_19_D013,Chen_b_19D013_fovea,MG_ON,138,fovea centralis,Chen_b_GSE226108
+Chen_19_D013,Chen_b_19D013_lobe_NeuNT,DS_ON,1,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D013,Chen_b_19D013_lobe_NeuNT,HRGC10,8,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D013,Chen_b_19D013_lobe_NeuNT,HRGC12,4,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D013,Chen_b_19D013_lobe_NeuNT,HRGC14,6,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D013,Chen_b_19D013_lobe_NeuNT,HRGC15,1,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D013,Chen_b_19D013_lobe_NeuNT,HRGC16,1,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D013,Chen_b_19D013_lobe_NeuNT,HRGC17,2,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D013,Chen_b_19D013_lobe_NeuNT,HRGC18,4,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D013,Chen_b_19D013_lobe_NeuNT,HRGC20,1,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D013,Chen_b_19D013_lobe_NeuNT,HRGC21,2,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D013,Chen_b_19D013_lobe_NeuNT,HRGC23,7,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D013,Chen_b_19D013_lobe_NeuNT,HRGC7,2,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D013,Chen_b_19D013_lobe_NeuNT,HRGC8,5,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D013,Chen_b_19D013_lobe_NeuNT,HRGC9,1,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D013,Chen_b_19D013_lobe_NeuNT,MG_OFF,1547,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D013,Chen_b_19D013_lobe_NeuNT,MG_ON,539,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D013,Chen_b_19D013_lobe_NeuNT,PG_ON,17,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D013,Chen_b_19D013_lobe_NeuNT,ipRGC,26,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D013,Chen_b_19D013_macular,MG_OFF,93,macula lutea proper,Chen_b_GSE226108
+Chen_19_D013,Chen_b_19D013_macular,MG_ON,54,macula lutea proper,Chen_b_GSE226108
+Chen_19_D014,Chen_b_19D014_fovea,HRGC10,5,fovea centralis,Chen_b_GSE226108
+Chen_19_D014,Chen_b_19D014_fovea,HRGC19,7,fovea centralis,Chen_b_GSE226108
+Chen_19_D014,Chen_b_19D014_fovea,HRGC20,2,fovea centralis,Chen_b_GSE226108
+Chen_19_D014,Chen_b_19D014_fovea,HRGC7,2,fovea centralis,Chen_b_GSE226108
+Chen_19_D014,Chen_b_19D014_fovea,HRGC8,25,fovea centralis,Chen_b_GSE226108
+Chen_19_D014,Chen_b_19D014_fovea,MG_OFF,666,fovea centralis,Chen_b_GSE226108
+Chen_19_D014,Chen_b_19D014_fovea,MG_ON,514,fovea centralis,Chen_b_GSE226108
+Chen_19_D014,Chen_b_19D014_fovea,PG_OFF,3,fovea centralis,Chen_b_GSE226108
+Chen_19_D014,Chen_b_19D014_fovea,PG_ON,1,fovea centralis,Chen_b_GSE226108
+Chen_19_D014,Chen_b_19D014_lobe_NeuNT,HRGC10,35,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D014,Chen_b_19D014_lobe_NeuNT,HRGC11,4,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D014,Chen_b_19D014_lobe_NeuNT,HRGC12,6,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D014,Chen_b_19D014_lobe_NeuNT,HRGC14,1,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D014,Chen_b_19D014_lobe_NeuNT,HRGC16,2,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D014,Chen_b_19D014_lobe_NeuNT,HRGC17,1,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D014,Chen_b_19D014_lobe_NeuNT,HRGC18,12,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D014,Chen_b_19D014_lobe_NeuNT,HRGC19,1,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D014,Chen_b_19D014_lobe_NeuNT,HRGC21,1,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D014,Chen_b_19D014_lobe_NeuNT,HRGC9,1,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D014,Chen_b_19D014_lobe_NeuNT,MG_OFF,11,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D014,Chen_b_19D014_lobe_NeuNT,MG_ON,7,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D014,Chen_b_19D014_lobe_NeuNT,PG_ON,8,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D014,Chen_b_19D014_lobe_NeuNT,ipRGC,2,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D014,Chen_b_19D014_macular,MG_OFF,88,macula lutea proper,Chen_b_GSE226108
+Chen_19_D014,Chen_b_19D014_macular,MG_ON,45,macula lutea proper,Chen_b_GSE226108
+Chen_19_D015,Chen_b_19D015_fovea,HRGC7,29,fovea centralis,Chen_b_GSE226108
+Chen_19_D015,Chen_b_19D015_fovea,HRGC8,37,fovea centralis,Chen_b_GSE226108
+Chen_19_D015,Chen_b_19D015_fovea,HRGC9,1,fovea centralis,Chen_b_GSE226108
+Chen_19_D015,Chen_b_19D015_fovea,MG_OFF,1386,fovea centralis,Chen_b_GSE226108
+Chen_19_D015,Chen_b_19D015_fovea,MG_ON,1323,fovea centralis,Chen_b_GSE226108
+Chen_19_D015,Chen_b_19D015_fovea,PG_OFF,14,fovea centralis,Chen_b_GSE226108
+Chen_19_D015,Chen_b_19D015_fovea,ipRGC,2,fovea centralis,Chen_b_GSE226108
+Chen_19_D015,Chen_b_19D015_lobe_NeuNT,DS_ON,6,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D015,Chen_b_19D015_lobe_NeuNT,HRGC10,16,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D015,Chen_b_19D015_lobe_NeuNT,HRGC11,1,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D015,Chen_b_19D015_lobe_NeuNT,HRGC12,1,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D015,Chen_b_19D015_lobe_NeuNT,HRGC14,6,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D015,Chen_b_19D015_lobe_NeuNT,HRGC15,3,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D015,Chen_b_19D015_lobe_NeuNT,HRGC17,9,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D015,Chen_b_19D015_lobe_NeuNT,HRGC19,2,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D015,Chen_b_19D015_lobe_NeuNT,HRGC22,4,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D015,Chen_b_19D015_lobe_NeuNT,HRGC23,4,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D015,Chen_b_19D015_lobe_NeuNT,HRGC7,3,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D015,Chen_b_19D015_lobe_NeuNT,HRGC8,13,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D015,Chen_b_19D015_lobe_NeuNT,HRGC9,15,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D015,Chen_b_19D015_lobe_NeuNT,MG_OFF,1656,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D015,Chen_b_19D015_lobe_NeuNT,MG_ON,835,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D015,Chen_b_19D015_lobe_NeuNT,PG_ON,33,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D015,Chen_b_19D015_lobe_NeuNT,ipRGC,40,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D015,Chen_b_19D015_lobe_Nu,MG_OFF,25,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D015,Chen_b_19D015_lobe_Nu,MG_ON,15,peripheral region of retina,Chen_b_GSE226108
+Chen_19_D015,Chen_b_19D015_macular,MG_OFF,218,macula lutea proper,Chen_b_GSE226108
+Chen_19_D015,Chen_b_19D015_macular,MG_ON,172,macula lutea proper,Chen_b_GSE226108
+Chen_19_D016,Chen_b_19D016_macular,MG_OFF,475,macula lutea proper,Chen_b_GSE226108
+Chen_19_D016,Chen_b_19D016_macular,MG_ON,370,macula lutea proper,Chen_b_GSE226108
+Chen_19_D016,Chen_rgc_10x3V31_19_D016_Macular_NeuN_T,HRGC10,36,macula lutea proper,Chen_rgc
+Chen_19_D016,Chen_rgc_10x3V31_19_D016_Macular_NeuN_T,HRGC12,9,macula lutea proper,Chen_rgc
+Chen_19_D016,Chen_rgc_10x3V31_19_D016_Macular_NeuN_T,HRGC14,6,macula lutea proper,Chen_rgc
+Chen_19_D016,Chen_rgc_10x3V31_19_D016_Macular_NeuN_T,HRGC15,5,macula lutea proper,Chen_rgc
+Chen_19_D016,Chen_rgc_10x3V31_19_D016_Macular_NeuN_T,HRGC18,14,macula lutea proper,Chen_rgc
+Chen_19_D016,Chen_rgc_10x3V31_19_D016_Macular_NeuN_T,HRGC21,1,macula lutea proper,Chen_rgc
+Chen_19_D016,Chen_rgc_10x3V31_19_D016_Macular_NeuN_T,HRGC22,7,macula lutea proper,Chen_rgc
+Chen_19_D016,Chen_rgc_10x3V31_19_D016_Macular_NeuN_T,HRGC23,2,macula lutea proper,Chen_rgc
+Chen_19_D016,Chen_rgc_10x3V31_19_D016_Macular_NeuN_T,HRGC24,1,macula lutea proper,Chen_rgc
+Chen_19_D016,Chen_rgc_10x3V31_19_D016_Macular_NeuN_T,HRGC7,3,macula lutea proper,Chen_rgc
+Chen_19_D016,Chen_rgc_10x3V31_19_D016_Macular_NeuN_T,HRGC8,6,macula lutea proper,Chen_rgc
+Chen_19_D016,Chen_rgc_10x3V31_19_D016_Macular_NeuN_T,HRGC9,8,macula lutea proper,Chen_rgc
+Chen_19_D016,Chen_rgc_10x3V31_19_D016_Macular_NeuN_T,MG_OFF,6683,macula lutea proper,Chen_rgc
+Chen_19_D016,Chen_rgc_10x3V31_19_D016_Macular_NeuN_T,MG_ON,5128,macula lutea proper,Chen_rgc
+Chen_19_D016,Chen_rgc_10x3V31_19_D016_Macular_NeuN_T,PG_OFF,1,macula lutea proper,Chen_rgc
+Chen_19_D016,Chen_rgc_10x3V31_19_D016_Macular_NeuN_T,PG_ON,27,macula lutea proper,Chen_rgc
+Chen_19_D016,Chen_rgc_10x3V31_19_D016_Macular_NeuN_T,ipRGC,69,macula lutea proper,Chen_rgc
+Chen_19_D017,Chen_rgc_10x3V31_19_D017_Macular_NeuN_T,HRGC10,1,macula lutea,Chen_rgc
+Chen_19_D017,Chen_rgc_10x3V31_19_D017_Macular_NeuN_T,HRGC11,2,macula lutea,Chen_rgc
+Chen_19_D017,Chen_rgc_10x3V31_19_D017_Macular_NeuN_T,HRGC18,1,macula lutea,Chen_rgc
+Chen_19_D017,Chen_rgc_10x3V31_19_D017_Macular_NeuN_T,HRGC24,1,macula lutea,Chen_rgc
+Chen_19_D017,Chen_rgc_10x3V31_19_D017_Macular_NeuN_T,HRGC7,1,macula lutea,Chen_rgc
+Chen_19_D017,Chen_rgc_10x3V31_19_D017_Macular_NeuN_T,HRGC8,2,macula lutea,Chen_rgc
+Chen_19_D017,Chen_rgc_10x3V31_19_D017_Macular_NeuN_T,MG_OFF,991,macula lutea,Chen_rgc
+Chen_19_D017,Chen_rgc_10x3V31_19_D017_Macular_NeuN_T,MG_ON,656,macula lutea,Chen_rgc
+Chen_19_D017,Chen_rgc_10x3V31_19_D017_Macular_NeuN_T,PG_OFF,1,macula lutea,Chen_rgc
+Chen_19_D017,Chen_rgc_10x3V31_19_D017_Macular_NeuN_T,PG_ON,3,macula lutea,Chen_rgc
+Chen_19_D017,Chen_rgc_10x3V31_19_D017_Macular_NeuN_T,ipRGC,1,macula lutea,Chen_rgc
+Chen_19_D019,Chen_a_10x3_Lobe_19_D019_Nu,MG_OFF,7,peripheral region of retina,Chen_a
+Chen_19_D019,Chen_a_10x3_Lobe_19_D019_Nu,MG_ON,2,peripheral region of retina,Chen_a
+Chen_19_D019,Chen_c_10x3_19_D019,HRGC10,1,macula lutea,Chen_c_GSE247157
+Chen_19_D019,Chen_c_10x3_19_D019,HRGC12,1,macula lutea,Chen_c_GSE247157
+Chen_19_D019,Chen_c_10x3_19_D019,HRGC14,2,macula lutea,Chen_c_GSE247157
+Chen_19_D019,Chen_c_10x3_19_D019,HRGC16,2,macula lutea,Chen_c_GSE247157
+Chen_19_D019,Chen_c_10x3_19_D019,HRGC18,1,macula lutea,Chen_c_GSE247157
+Chen_19_D019,Chen_c_10x3_19_D019,HRGC19,1,macula lutea,Chen_c_GSE247157
+Chen_19_D019,Chen_c_10x3_19_D019,HRGC7,4,macula lutea,Chen_c_GSE247157
+Chen_19_D019,Chen_c_10x3_19_D019,HRGC8,6,macula lutea,Chen_c_GSE247157
+Chen_19_D019,Chen_c_10x3_19_D019,MG_OFF,197,macula lutea,Chen_c_GSE247157
+Chen_19_D019,Chen_c_10x3_19_D019,MG_ON,133,macula lutea,Chen_c_GSE247157
+Chen_19_D019,Chen_c_10x3_19_D019,PG_OFF,11,macula lutea,Chen_c_GSE247157
+Chen_19_D019,Chen_c_10x3_19_D019,PG_ON,14,macula lutea,Chen_c_GSE247157
+Chen_19_D019,Chen_c_10x3_19_D019,ipRGC,2,macula lutea,Chen_c_GSE247157
+Chen_D005_13,Chen_a_10x3_Lobe_D005_13_NeuN,MG_OFF,48,peripheral region of retina,Chen_a
+Chen_D005_13,Chen_a_10x3_Lobe_D005_13_NeuN,MG_ON,12,peripheral region of retina,Chen_a
+Chen_D005_13,Chen_c_10x3_D005_13,MG_OFF,132,macula lutea,Chen_c_GSE247157
+Chen_D005_13,Chen_c_10x3_D005_13,MG_ON,47,macula lutea,Chen_c_GSE247157
+Chen_D009_13,Chen_a_10x3_Lobe_D009_13_NeuN,MG_OFF,110,peripheral region of retina,Chen_a
+Chen_D009_13,Chen_a_10x3_Lobe_D009_13_NeuN,MG_ON,36,peripheral region of retina,Chen_a
+Chen_D009_13,Chen_a_10x3_Lobe_D009_13_Nu,MG_OFF,7,peripheral region of retina,Chen_a
+Chen_D009_13,Chen_a_10x3_Lobe_D009_13_Nu,MG_ON,2,peripheral region of retina,Chen_a
+Chen_D009_13,Chen_c_10x3_D009_13,HRGC10,3,macula lutea,Chen_c_GSE247157
+Chen_D009_13,Chen_c_10x3_D009_13,HRGC11,2,macula lutea,Chen_c_GSE247157
+Chen_D009_13,Chen_c_10x3_D009_13,HRGC14,3,macula lutea,Chen_c_GSE247157
+Chen_D009_13,Chen_c_10x3_D009_13,HRGC19,5,macula lutea,Chen_c_GSE247157
+Chen_D009_13,Chen_c_10x3_D009_13,HRGC20,2,macula lutea,Chen_c_GSE247157
+Chen_D009_13,Chen_c_10x3_D009_13,HRGC21,1,macula lutea,Chen_c_GSE247157
+Chen_D009_13,Chen_c_10x3_D009_13,HRGC7,12,macula lutea,Chen_c_GSE247157
+Chen_D009_13,Chen_c_10x3_D009_13,HRGC8,22,macula lutea,Chen_c_GSE247157
+Chen_D009_13,Chen_c_10x3_D009_13,MG_OFF,224,macula lutea,Chen_c_GSE247157
+Chen_D009_13,Chen_c_10x3_D009_13,MG_ON,138,macula lutea,Chen_c_GSE247157
+Chen_D009_13,Chen_c_10x3_D009_13,PG_OFF,7,macula lutea,Chen_c_GSE247157
+Chen_D009_13,Chen_c_10x3_D009_13,PG_ON,17,macula lutea,Chen_c_GSE247157
+Chen_D009_13,Chen_c_10x3_D009_13,ipRGC,2,macula lutea,Chen_c_GSE247157
+Chen_D013_13,Chen_a_10x3_Lobe_D013_13_Nu,MG_OFF,7,peripheral region of retina,Chen_a
+Chen_D013_13,Chen_a_10x3_Lobe_D013_13_Nu,MG_ON,7,peripheral region of retina,Chen_a
+Chen_D013_13,Chen_c_10x3_D013_13,DS_ON,1,macula lutea,Chen_c_GSE247157
+Chen_D013_13,Chen_c_10x3_D013_13,HRGC10,3,macula lutea,Chen_c_GSE247157
+Chen_D013_13,Chen_c_10x3_D013_13,HRGC11,2,macula lutea,Chen_c_GSE247157
+Chen_D013_13,Chen_c_10x3_D013_13,HRGC19,2,macula lutea,Chen_c_GSE247157
+Chen_D013_13,Chen_c_10x3_D013_13,HRGC20,7,macula lutea,Chen_c_GSE247157
+Chen_D013_13,Chen_c_10x3_D013_13,HRGC23,1,macula lutea,Chen_c_GSE247157
+Chen_D013_13,Chen_c_10x3_D013_13,HRGC7,30,macula lutea,Chen_c_GSE247157
+Chen_D013_13,Chen_c_10x3_D013_13,HRGC8,20,macula lutea,Chen_c_GSE247157
+Chen_D013_13,Chen_c_10x3_D013_13,HRGC9,1,macula lutea,Chen_c_GSE247157
+Chen_D013_13,Chen_c_10x3_D013_13,MG_OFF,559,macula lutea,Chen_c_GSE247157
+Chen_D013_13,Chen_c_10x3_D013_13,MG_ON,435,macula lutea,Chen_c_GSE247157
+Chen_D013_13,Chen_c_10x3_D013_13,PG_OFF,24,macula lutea,Chen_c_GSE247157
+Chen_D013_13,Chen_c_10x3_D013_13,PG_ON,27,macula lutea,Chen_c_GSE247157
+Chen_D017_13,Chen_c_10x3_D017_13,MG_OFF,87,macula lutea,Chen_c_GSE247157
+Chen_D017_13,Chen_c_10x3_D017_13,MG_ON,53,macula lutea,Chen_c_GSE247157
+Chen_D018_13,Chen_c_10x3_D018_13,MG_OFF,85,macula lutea,Chen_c_GSE247157
+Chen_D018_13,Chen_c_10x3_D018_13,MG_ON,65,macula lutea,Chen_c_GSE247157
+Chen_D019_13,Chen_a_10x_Lobe_D19_13_NeuN,MG_OFF,6,peripheral region of retina,Chen_a
+Chen_D019_13,Chen_a_10x_Lobe_D19_13_NeuN,MG_ON,3,peripheral region of retina,Chen_a
+Chen_D019_13,Chen_c_10x3_D019_13,MG_OFF,9,macula lutea,Chen_c_GSE247157
+Chen_D019_13,Chen_c_10x3_D019_13,MG_ON,5,macula lutea,Chen_c_GSE247157
+Chen_D021_13,Chen_a_10x_Lobe_D21_13_NeuN,MG_OFF,10,peripheral region of retina,Chen_a
+Chen_D021_13,Chen_a_10x_Lobe_D21_13_NeuN,MG_ON,3,peripheral region of retina,Chen_a
+Chen_D021_13,Chen_c_10x3_D021_13,HRGC10,1,macula lutea,Chen_c_GSE247157
+Chen_D021_13,Chen_c_10x3_D021_13,HRGC11,2,macula lutea,Chen_c_GSE247157
+Chen_D021_13,Chen_c_10x3_D021_13,HRGC12,1,macula lutea,Chen_c_GSE247157
+Chen_D021_13,Chen_c_10x3_D021_13,HRGC15,2,macula lutea,Chen_c_GSE247157
+Chen_D021_13,Chen_c_10x3_D021_13,HRGC20,2,macula lutea,Chen_c_GSE247157
+Chen_D021_13,Chen_c_10x3_D021_13,HRGC21,1,macula lutea,Chen_c_GSE247157
+Chen_D021_13,Chen_c_10x3_D021_13,HRGC7,23,macula lutea,Chen_c_GSE247157
+Chen_D021_13,Chen_c_10x3_D021_13,HRGC8,6,macula lutea,Chen_c_GSE247157
+Chen_D021_13,Chen_c_10x3_D021_13,MG_OFF,312,macula lutea,Chen_c_GSE247157
+Chen_D021_13,Chen_c_10x3_D021_13,MG_ON,221,macula lutea,Chen_c_GSE247157
+Chen_D021_13,Chen_c_10x3_D021_13,PG_OFF,17,macula lutea,Chen_c_GSE247157
+Chen_D021_13,Chen_c_10x3_D021_13,PG_ON,34,macula lutea,Chen_c_GSE247157
+Chen_D021_13,Chen_c_10x3_D021_13,ipRGC,1,macula lutea,Chen_c_GSE247157
+Chen_D026_13,Chen_a_10x_Lobe_D026_13_NeuN,MG_OFF,76,peripheral region of retina,Chen_a
+Chen_D026_13,Chen_a_10x_Lobe_D026_13_NeuN,MG_ON,39,peripheral region of retina,Chen_a
+Chen_D026_13,Chen_a_10x_Lobe_D026_13_Nu,MG_OFF,6,peripheral region of retina,Chen_a
+Chen_D026_13,Chen_a_10x_Lobe_D026_13_Nu,MG_ON,5,peripheral region of retina,Chen_a
+Chen_D026_13,Chen_c_10x3_D026_13,MG_OFF,44,macula lutea,Chen_c_GSE247157
+Chen_D026_13,Chen_c_10x3_D026_13,MG_ON,29,macula lutea,Chen_c_GSE247157
+Chen_D027_13,Chen_a_10x_Lobe_D27_13_NeuN,MG_OFF,16,peripheral region of retina,Chen_a
+Chen_D027_13,Chen_a_10x_Lobe_D27_13_NeuN,MG_ON,5,peripheral region of retina,Chen_a
+Chen_D027_13,Chen_c_10x3_D027_13,HRGC10,3,macula lutea,Chen_c_GSE247157
+Chen_D027_13,Chen_c_10x3_D027_13,HRGC11,2,macula lutea,Chen_c_GSE247157
+Chen_D027_13,Chen_c_10x3_D027_13,HRGC17,1,macula lutea,Chen_c_GSE247157
+Chen_D027_13,Chen_c_10x3_D027_13,HRGC19,1,macula lutea,Chen_c_GSE247157
+Chen_D027_13,Chen_c_10x3_D027_13,HRGC20,4,macula lutea,Chen_c_GSE247157
+Chen_D027_13,Chen_c_10x3_D027_13,HRGC7,16,macula lutea,Chen_c_GSE247157
+Chen_D027_13,Chen_c_10x3_D027_13,HRGC8,12,macula lutea,Chen_c_GSE247157
+Chen_D027_13,Chen_c_10x3_D027_13,MG_OFF,199,macula lutea,Chen_c_GSE247157
+Chen_D027_13,Chen_c_10x3_D027_13,MG_ON,134,macula lutea,Chen_c_GSE247157
+Chen_D027_13,Chen_c_10x3_D027_13,PG_OFF,13,macula lutea,Chen_c_GSE247157
+Chen_D027_13,Chen_c_10x3_D027_13,PG_ON,7,macula lutea,Chen_c_GSE247157
+Chen_D027_13,Chen_c_10x3_D027_13,ipRGC,2,macula lutea,Chen_c_GSE247157
+Chen_D028_13,Chen_a_10x_Lobe_D28_13_NeuN,MG_OFF,31,peripheral region of retina,Chen_a
+Chen_D028_13,Chen_a_10x_Lobe_D28_13_NeuN,MG_ON,7,peripheral region of retina,Chen_a
+Chen_D028_13,Chen_c_10x3_D028_13,MG_OFF,34,macula lutea,Chen_c_GSE247157
+Chen_D028_13,Chen_c_10x3_D028_13,MG_ON,19,macula lutea,Chen_c_GSE247157
+Chen_D030_13,Chen_a_10x_Lobe_D30_13_NeuN,MG_OFF,212,peripheral region of retina,Chen_a
+Chen_D030_13,Chen_a_10x_Lobe_D30_13_NeuN,MG_ON,18,peripheral region of retina,Chen_a
+Chen_D030_13,Chen_a_10x_Lobe_D30_13_Nu,MG_OFF,14,peripheral region of retina,Chen_a
+Chen_D030_13,Chen_a_10x_Lobe_D30_13_Nu,MG_ON,3,peripheral region of retina,Chen_a
+Chen_D030_13,Chen_c_10x3_D030_13_Macular,MG_OFF,62,macula lutea,Chen_c_GSE247157
+Chen_D030_13,Chen_c_10x3_D030_13_Macular,MG_ON,16,macula lutea,Chen_c_GSE247157
+Hu0218,GSM7596853,HRGC10,17,macula lutea,Shekhar_GSE237204
+Hu0218,GSM7596853,HRGC12,7,macula lutea,Shekhar_GSE237204
+Hu0218,GSM7596853,HRGC14,27,macula lutea,Shekhar_GSE237204
+Hu0218,GSM7596853,HRGC15,7,macula lutea,Shekhar_GSE237204
+Hu0218,GSM7596853,HRGC16,6,macula lutea,Shekhar_GSE237204
+Hu0218,GSM7596853,HRGC17,18,macula lutea,Shekhar_GSE237204
+Hu0218,GSM7596853,HRGC18,4,macula lutea,Shekhar_GSE237204
+Hu0218,GSM7596853,HRGC19,1,macula lutea,Shekhar_GSE237204
+Hu0218,GSM7596853,HRGC22,2,macula lutea,Shekhar_GSE237204
+Hu0218,GSM7596853,HRGC23,1,macula lutea,Shekhar_GSE237204
+Hu0218,GSM7596853,HRGC24,1,macula lutea,Shekhar_GSE237204
+Hu0218,GSM7596853,HRGC7,102,macula lutea,Shekhar_GSE237204
+Hu0218,GSM7596853,HRGC8,4,macula lutea,Shekhar_GSE237204
+Hu0218,GSM7596853,HRGC9,20,macula lutea,Shekhar_GSE237204
+Hu0218,GSM7596853,MG_OFF,5258,macula lutea,Shekhar_GSE237204
+Hu0218,GSM7596853,MG_ON,3145,macula lutea,Shekhar_GSE237204
+Hu0218,GSM7596853,PG_OFF,73,macula lutea,Shekhar_GSE237204
+Hu0218,GSM7596853,PG_ON,249,macula lutea,Shekhar_GSE237204
+Hu0218,GSM7596853,ipRGC,19,macula lutea,Shekhar_GSE237204
+Hu0220,GSM7596856,DS_ON,6,macula lutea,Shekhar_GSE237204
+Hu0220,GSM7596856,HRGC10,17,macula lutea,Shekhar_GSE237204
+Hu0220,GSM7596856,HRGC11,1,macula lutea,Shekhar_GSE237204
+Hu0220,GSM7596856,HRGC12,22,macula lutea,Shekhar_GSE237204
+Hu0220,GSM7596856,HRGC14,27,macula lutea,Shekhar_GSE237204
+Hu0220,GSM7596856,HRGC15,12,macula lutea,Shekhar_GSE237204
+Hu0220,GSM7596856,HRGC16,9,macula lutea,Shekhar_GSE237204
+Hu0220,GSM7596856,HRGC17,6,macula lutea,Shekhar_GSE237204
+Hu0220,GSM7596856,HRGC18,10,macula lutea,Shekhar_GSE237204
+Hu0220,GSM7596856,HRGC19,1,macula lutea,Shekhar_GSE237204
+Hu0220,GSM7596856,HRGC21,1,macula lutea,Shekhar_GSE237204
+Hu0220,GSM7596856,HRGC22,4,macula lutea,Shekhar_GSE237204
+Hu0220,GSM7596856,HRGC23,3,macula lutea,Shekhar_GSE237204
+Hu0220,GSM7596856,HRGC7,114,macula lutea,Shekhar_GSE237204
+Hu0220,GSM7596856,HRGC8,3,macula lutea,Shekhar_GSE237204
+Hu0220,GSM7596856,HRGC9,21,macula lutea,Shekhar_GSE237204
+Hu0220,GSM7596856,MG_OFF,2130,macula lutea,Shekhar_GSE237204
+Hu0220,GSM7596856,MG_ON,1316,macula lutea,Shekhar_GSE237204
+Hu0220,GSM7596856,PG_OFF,107,macula lutea,Shekhar_GSE237204
+Hu0220,GSM7596856,PG_ON,153,macula lutea,Shekhar_GSE237204
+Hu0220,GSM7596856,ipRGC,3,macula lutea,Shekhar_GSE237204
+Hu0220,GSM7596857,MG_OFF,13,peripheral region of retina,Shekhar_GSE237204
+Hu0220,GSM7596857,MG_ON,4,peripheral region of retina,Shekhar_GSE237204
+Hu0235,GSM7596858,DS_ON,1,macula lutea,Shekhar_GSE237204
+Hu0235,GSM7596858,HRGC10,6,macula lutea,Shekhar_GSE237204
+Hu0235,GSM7596858,HRGC12,3,macula lutea,Shekhar_GSE237204
+Hu0235,GSM7596858,HRGC16,1,macula lutea,Shekhar_GSE237204
+Hu0235,GSM7596858,HRGC21,1,macula lutea,Shekhar_GSE237204
+Hu0235,GSM7596858,HRGC22,2,macula lutea,Shekhar_GSE237204
+Hu0235,GSM7596858,HRGC24,1,macula lutea,Shekhar_GSE237204
+Hu0235,GSM7596858,HRGC7,1,macula lutea,Shekhar_GSE237204
+Hu0235,GSM7596858,HRGC9,9,macula lutea,Shekhar_GSE237204
+Hu0235,GSM7596858,MG_OFF,2884,macula lutea,Shekhar_GSE237204
+Hu0235,GSM7596858,MG_ON,2473,macula lutea,Shekhar_GSE237204
+Hu0235,GSM7596858,PG_OFF,4,macula lutea,Shekhar_GSE237204
+Hu0235,GSM7596858,PG_ON,34,macula lutea,Shekhar_GSE237204
+Hu0235,GSM7596858,ipRGC,29,macula lutea,Shekhar_GSE237204
+Hu0326,GSM7596843,DS_ON,1,macula lutea,Shekhar_GSE237204
+Hu0326,GSM7596843,HRGC10,5,macula lutea,Shekhar_GSE237204
+Hu0326,GSM7596843,HRGC12,7,macula lutea,Shekhar_GSE237204
+Hu0326,GSM7596843,HRGC14,2,macula lutea,Shekhar_GSE237204
+Hu0326,GSM7596843,HRGC15,6,macula lutea,Shekhar_GSE237204
+Hu0326,GSM7596843,HRGC17,2,macula lutea,Shekhar_GSE237204
+Hu0326,GSM7596843,HRGC18,6,macula lutea,Shekhar_GSE237204
+Hu0326,GSM7596843,HRGC7,5,macula lutea,Shekhar_GSE237204
+Hu0326,GSM7596843,HRGC8,3,macula lutea,Shekhar_GSE237204
+Hu0326,GSM7596843,HRGC9,6,macula lutea,Shekhar_GSE237204
+Hu0326,GSM7596843,MG_OFF,3450,macula lutea,Shekhar_GSE237204
+Hu0326,GSM7596843,MG_ON,860,macula lutea,Shekhar_GSE237204
+Hu0326,GSM7596843,PG_OFF,3,macula lutea,Shekhar_GSE237204
+Hu0326,GSM7596843,PG_ON,10,macula lutea,Shekhar_GSE237204
+Hu0326,GSM7596843,ipRGC,9,macula lutea,Shekhar_GSE237204
+Hu0355,GSM7596844,DS_ON,1,macula lutea,Shekhar_GSE237204
+Hu0355,GSM7596844,HRGC10,7,macula lutea,Shekhar_GSE237204
+Hu0355,GSM7596844,HRGC12,11,macula lutea,Shekhar_GSE237204
+Hu0355,GSM7596844,HRGC14,12,macula lutea,Shekhar_GSE237204
+Hu0355,GSM7596844,HRGC15,4,macula lutea,Shekhar_GSE237204
+Hu0355,GSM7596844,HRGC18,3,macula lutea,Shekhar_GSE237204
+Hu0355,GSM7596844,HRGC21,2,macula lutea,Shekhar_GSE237204
+Hu0355,GSM7596844,HRGC22,3,macula lutea,Shekhar_GSE237204
+Hu0355,GSM7596844,HRGC23,1,macula lutea,Shekhar_GSE237204
+Hu0355,GSM7596844,HRGC7,24,macula lutea,Shekhar_GSE237204
+Hu0355,GSM7596844,HRGC9,8,macula lutea,Shekhar_GSE237204
+Hu0355,GSM7596844,MG_OFF,3842,macula lutea,Shekhar_GSE237204
+Hu0355,GSM7596844,MG_ON,2531,macula lutea,Shekhar_GSE237204
+Hu0355,GSM7596844,PG_OFF,34,macula lutea,Shekhar_GSE237204
+Hu0355,GSM7596844,PG_ON,104,macula lutea,Shekhar_GSE237204
+Hu0355,GSM7596844,ipRGC,10,macula lutea,Shekhar_GSE237204
+Hu0355,GSM7596845,DS_ON,1,macula lutea,Shekhar_GSE237204
+Hu0355,GSM7596845,HRGC10,16,macula lutea,Shekhar_GSE237204
+Hu0355,GSM7596845,HRGC11,1,macula lutea,Shekhar_GSE237204
+Hu0355,GSM7596845,HRGC12,13,macula lutea,Shekhar_GSE237204
+Hu0355,GSM7596845,HRGC14,6,macula lutea,Shekhar_GSE237204
+Hu0355,GSM7596845,HRGC15,4,macula lutea,Shekhar_GSE237204
+Hu0355,GSM7596845,HRGC21,4,macula lutea,Shekhar_GSE237204
+Hu0355,GSM7596845,HRGC22,1,macula lutea,Shekhar_GSE237204
+Hu0355,GSM7596845,HRGC23,2,macula lutea,Shekhar_GSE237204
+Hu0355,GSM7596845,HRGC7,28,macula lutea,Shekhar_GSE237204
+Hu0355,GSM7596845,HRGC8,1,macula lutea,Shekhar_GSE237204
+Hu0355,GSM7596845,HRGC9,15,macula lutea,Shekhar_GSE237204
+Hu0355,GSM7596845,MG_OFF,4299,macula lutea,Shekhar_GSE237204
+Hu0355,GSM7596845,MG_ON,2894,macula lutea,Shekhar_GSE237204
+Hu0355,GSM7596845,PG_OFF,32,macula lutea,Shekhar_GSE237204
+Hu0355,GSM7596845,PG_ON,146,macula lutea,Shekhar_GSE237204
+Hu0355,GSM7596845,ipRGC,12,macula lutea,Shekhar_GSE237204
+Hu0563,GSM7596846,HRGC10,1,macula lutea,Shekhar_GSE237204
+Hu0563,GSM7596846,HRGC13,5,macula lutea,Shekhar_GSE237204
+Hu0563,GSM7596846,HRGC24,6,macula lutea,Shekhar_GSE237204
+Hu0563,GSM7596846,HRGC7,5,macula lutea,Shekhar_GSE237204
+Hu0563,GSM7596846,MG_OFF,1010,macula lutea,Shekhar_GSE237204
+Hu0563,GSM7596846,MG_ON,712,macula lutea,Shekhar_GSE237204
+Hu0563,GSM7596846,PG_OFF,4,macula lutea,Shekhar_GSE237204
+Hu0563,GSM7596846,PG_ON,18,macula lutea,Shekhar_GSE237204
+Hu0563,GSM7596846,ipRGC,4,macula lutea,Shekhar_GSE237204
+Hu0563,GSM7596864,MG_OFF,203,peripheral region of retina,Shekhar_GSE237204
+Hu0563,GSM7596864,MG_ON,77,peripheral region of retina,Shekhar_GSE237204
+Hu0564,GSM7596847,DS_ON,5,macula lutea,Shekhar_GSE237204
+Hu0564,GSM7596847,HRGC10,16,macula lutea,Shekhar_GSE237204
+Hu0564,GSM7596847,HRGC11,1,macula lutea,Shekhar_GSE237204
+Hu0564,GSM7596847,HRGC12,5,macula lutea,Shekhar_GSE237204
+Hu0564,GSM7596847,HRGC14,1,macula lutea,Shekhar_GSE237204
+Hu0564,GSM7596847,HRGC15,5,macula lutea,Shekhar_GSE237204
+Hu0564,GSM7596847,HRGC16,2,macula lutea,Shekhar_GSE237204
+Hu0564,GSM7596847,HRGC17,6,macula lutea,Shekhar_GSE237204
+Hu0564,GSM7596847,HRGC18,2,macula lutea,Shekhar_GSE237204
+Hu0564,GSM7596847,HRGC19,1,macula lutea,Shekhar_GSE237204
+Hu0564,GSM7596847,HRGC21,2,macula lutea,Shekhar_GSE237204
+Hu0564,GSM7596847,HRGC22,2,macula lutea,Shekhar_GSE237204
+Hu0564,GSM7596847,HRGC23,1,macula lutea,Shekhar_GSE237204
+Hu0564,GSM7596847,HRGC7,82,macula lutea,Shekhar_GSE237204
+Hu0564,GSM7596847,HRGC8,3,macula lutea,Shekhar_GSE237204
+Hu0564,GSM7596847,HRGC9,15,macula lutea,Shekhar_GSE237204
+Hu0564,GSM7596847,MG_OFF,3279,macula lutea,Shekhar_GSE237204
+Hu0564,GSM7596847,MG_ON,2078,macula lutea,Shekhar_GSE237204
+Hu0564,GSM7596847,PG_OFF,102,macula lutea,Shekhar_GSE237204
+Hu0564,GSM7596847,PG_ON,6,macula lutea,Shekhar_GSE237204
+Hu0564,GSM7596847,ipRGC,18,macula lutea,Shekhar_GSE237204
+Hu0869,GSM7596849,DS_ON,1,macula lutea,Shekhar_GSE237204
+Hu0869,GSM7596849,HRGC10,1,macula lutea,Shekhar_GSE237204
+Hu0869,GSM7596849,HRGC14,14,macula lutea,Shekhar_GSE237204
+Hu0869,GSM7596849,HRGC15,2,macula lutea,Shekhar_GSE237204
+Hu0869,GSM7596849,HRGC16,1,macula lutea,Shekhar_GSE237204
+Hu0869,GSM7596849,HRGC18,1,macula lutea,Shekhar_GSE237204
+Hu0869,GSM7596849,HRGC19,1,macula lutea,Shekhar_GSE237204
+Hu0869,GSM7596849,HRGC20,1,macula lutea,Shekhar_GSE237204
+Hu0869,GSM7596849,HRGC21,7,macula lutea,Shekhar_GSE237204
+Hu0869,GSM7596849,HRGC23,2,macula lutea,Shekhar_GSE237204
+Hu0869,GSM7596849,HRGC7,11,macula lutea,Shekhar_GSE237204
+Hu0869,GSM7596849,HRGC8,1,macula lutea,Shekhar_GSE237204
+Hu0869,GSM7596849,HRGC9,5,macula lutea,Shekhar_GSE237204
+Hu0869,GSM7596849,MG_OFF,2549,macula lutea,Shekhar_GSE237204
+Hu0869,GSM7596849,MG_ON,1876,macula lutea,Shekhar_GSE237204
+Hu0869,GSM7596849,PG_OFF,11,macula lutea,Shekhar_GSE237204
+Hu0869,GSM7596849,PG_ON,42,macula lutea,Shekhar_GSE237204
+Hu0869,GSM7596849,ipRGC,21,macula lutea,Shekhar_GSE237204
+Hu0887,GSM7596850,HRGC10,8,macula lutea,Shekhar_GSE237204
+Hu0887,GSM7596850,HRGC12,2,macula lutea,Shekhar_GSE237204
+Hu0887,GSM7596850,HRGC14,2,macula lutea,Shekhar_GSE237204
+Hu0887,GSM7596850,HRGC15,3,macula lutea,Shekhar_GSE237204
+Hu0887,GSM7596850,HRGC17,1,macula lutea,Shekhar_GSE237204
+Hu0887,GSM7596850,HRGC18,4,macula lutea,Shekhar_GSE237204
+Hu0887,GSM7596850,HRGC21,2,macula lutea,Shekhar_GSE237204
+Hu0887,GSM7596850,HRGC7,20,macula lutea,Shekhar_GSE237204
+Hu0887,GSM7596850,HRGC8,3,macula lutea,Shekhar_GSE237204
+Hu0887,GSM7596850,HRGC9,4,macula lutea,Shekhar_GSE237204
+Hu0887,GSM7596850,MG_OFF,816,macula lutea,Shekhar_GSE237204
+Hu0887,GSM7596850,MG_ON,1399,macula lutea,Shekhar_GSE237204
+Hu0887,GSM7596850,PG_OFF,20,macula lutea,Shekhar_GSE237204
+Hu0887,GSM7596850,PG_ON,45,macula lutea,Shekhar_GSE237204
+Hu0887,GSM7596850,ipRGC,14,macula lutea,Shekhar_GSE237204
+Hu1059,GSM7596851,DS_ON,1,macula lutea,Shekhar_GSE237204
+Hu1059,GSM7596851,HRGC10,8,macula lutea,Shekhar_GSE237204
+Hu1059,GSM7596851,HRGC11,1,macula lutea,Shekhar_GSE237204
+Hu1059,GSM7596851,HRGC12,4,macula lutea,Shekhar_GSE237204
+Hu1059,GSM7596851,HRGC14,13,macula lutea,Shekhar_GSE237204
+Hu1059,GSM7596851,HRGC15,2,macula lutea,Shekhar_GSE237204
+Hu1059,GSM7596851,HRGC16,6,macula lutea,Shekhar_GSE237204
+Hu1059,GSM7596851,HRGC17,3,macula lutea,Shekhar_GSE237204
+Hu1059,GSM7596851,HRGC18,3,macula lutea,Shekhar_GSE237204
+Hu1059,GSM7596851,HRGC19,2,macula lutea,Shekhar_GSE237204
+Hu1059,GSM7596851,HRGC22,6,macula lutea,Shekhar_GSE237204
+Hu1059,GSM7596851,HRGC23,1,macula lutea,Shekhar_GSE237204
+Hu1059,GSM7596851,HRGC7,49,macula lutea,Shekhar_GSE237204
+Hu1059,GSM7596851,HRGC8,1,macula lutea,Shekhar_GSE237204
+Hu1059,GSM7596851,HRGC9,10,macula lutea,Shekhar_GSE237204
+Hu1059,GSM7596851,MG_OFF,3098,macula lutea,Shekhar_GSE237204
+Hu1059,GSM7596851,MG_ON,2292,macula lutea,Shekhar_GSE237204
+Hu1059,GSM7596851,PG_OFF,53,macula lutea,Shekhar_GSE237204
+Hu1059,GSM7596851,PG_ON,104,macula lutea,Shekhar_GSE237204
+Hu1059,GSM7596851,ipRGC,7,macula lutea,Shekhar_GSE237204
+MMD_22_02443,MMD_22_02443_RNA_lobe,MG_OFF,5,peripheral region of retina,Chen_ancestry
+MMD_22_02443,MMD_22_02443_RNA_lobe,MG_ON,3,peripheral region of retina,Chen_ancestry
+MMD_22_02443,MMD_22_02443_RNA_macular,MG_OFF,145,macula lutea,Chen_ancestry
+MMD_22_02443,MMD_22_02443_RNA_macular,MG_ON,107,macula lutea,Chen_ancestry
+MMD_22_02443,MMD_22_02443_RNA_macular_NeuN,DS_ON,2,macula lutea,Chen_ancestry
+MMD_22_02443,MMD_22_02443_RNA_macular_NeuN,HRGC10,6,macula lutea,Chen_ancestry
+MMD_22_02443,MMD_22_02443_RNA_macular_NeuN,HRGC11,4,macula lutea,Chen_ancestry
+MMD_22_02443,MMD_22_02443_RNA_macular_NeuN,HRGC12,10,macula lutea,Chen_ancestry
+MMD_22_02443,MMD_22_02443_RNA_macular_NeuN,HRGC14,9,macula lutea,Chen_ancestry
+MMD_22_02443,MMD_22_02443_RNA_macular_NeuN,HRGC15,4,macula lutea,Chen_ancestry
+MMD_22_02443,MMD_22_02443_RNA_macular_NeuN,HRGC16,7,macula lutea,Chen_ancestry
+MMD_22_02443,MMD_22_02443_RNA_macular_NeuN,HRGC17,3,macula lutea,Chen_ancestry
+MMD_22_02443,MMD_22_02443_RNA_macular_NeuN,HRGC18,1,macula lutea,Chen_ancestry
+MMD_22_02443,MMD_22_02443_RNA_macular_NeuN,HRGC19,4,macula lutea,Chen_ancestry
+MMD_22_02443,MMD_22_02443_RNA_macular_NeuN,HRGC21,1,macula lutea,Chen_ancestry
+MMD_22_02443,MMD_22_02443_RNA_macular_NeuN,HRGC22,3,macula lutea,Chen_ancestry
+MMD_22_02443,MMD_22_02443_RNA_macular_NeuN,HRGC23,4,macula lutea,Chen_ancestry
+MMD_22_02443,MMD_22_02443_RNA_macular_NeuN,HRGC7,112,macula lutea,Chen_ancestry
+MMD_22_02443,MMD_22_02443_RNA_macular_NeuN,HRGC8,10,macula lutea,Chen_ancestry
+MMD_22_02443,MMD_22_02443_RNA_macular_NeuN,HRGC9,4,macula lutea,Chen_ancestry
+MMD_22_02443,MMD_22_02443_RNA_macular_NeuN,MG_OFF,3209,macula lutea,Chen_ancestry
+MMD_22_02443,MMD_22_02443_RNA_macular_NeuN,MG_ON,2184,macula lutea,Chen_ancestry
+MMD_22_02443,MMD_22_02443_RNA_macular_NeuN,PG_OFF,71,macula lutea,Chen_ancestry
+MMD_22_02443,MMD_22_02443_RNA_macular_NeuN,PG_ON,129,macula lutea,Chen_ancestry
+MMD_22_02443,MMD_22_02443_RNA_macular_NeuN,ipRGC,16,macula lutea,Chen_ancestry
+MMD_22_13066,MMD_22_13066_RNA_lobe,MG_ON,14,peripheral region of retina,Chen_ancestry
+MMD_22_13066,MMD_22_13066_RNA_macular,MG_OFF,75,macula lutea,Chen_ancestry
+MMD_22_13066,MMD_22_13066_RNA_macular,MG_ON,48,macula lutea,Chen_ancestry
+MMD_22_13066,MMD_22_13066_RNA_macular_NeuN,HRGC10,2,macula lutea,Chen_ancestry
+MMD_22_13066,MMD_22_13066_RNA_macular_NeuN,HRGC11,2,macula lutea,Chen_ancestry
+MMD_22_13066,MMD_22_13066_RNA_macular_NeuN,HRGC12,2,macula lutea,Chen_ancestry
+MMD_22_13066,MMD_22_13066_RNA_macular_NeuN,HRGC14,1,macula lutea,Chen_ancestry
+MMD_22_13066,MMD_22_13066_RNA_macular_NeuN,HRGC16,2,macula lutea,Chen_ancestry
+MMD_22_13066,MMD_22_13066_RNA_macular_NeuN,HRGC18,1,macula lutea,Chen_ancestry
+MMD_22_13066,MMD_22_13066_RNA_macular_NeuN,HRGC19,1,macula lutea,Chen_ancestry
+MMD_22_13066,MMD_22_13066_RNA_macular_NeuN,HRGC20,1,macula lutea,Chen_ancestry
+MMD_22_13066,MMD_22_13066_RNA_macular_NeuN,HRGC21,1,macula lutea,Chen_ancestry
+MMD_22_13066,MMD_22_13066_RNA_macular_NeuN,HRGC7,6,macula lutea,Chen_ancestry
+MMD_22_13066,MMD_22_13066_RNA_macular_NeuN,HRGC8,3,macula lutea,Chen_ancestry
+MMD_22_13066,MMD_22_13066_RNA_macular_NeuN,HRGC9,7,macula lutea,Chen_ancestry
+MMD_22_13066,MMD_22_13066_RNA_macular_NeuN,MG_OFF,1365,macula lutea,Chen_ancestry
+MMD_22_13066,MMD_22_13066_RNA_macular_NeuN,MG_ON,890,macula lutea,Chen_ancestry
+MMD_22_13066,MMD_22_13066_RNA_macular_NeuN,PG_OFF,24,macula lutea,Chen_ancestry
+MMD_22_13066,MMD_22_13066_RNA_macular_NeuN,PG_ON,30,macula lutea,Chen_ancestry
+MMD_22_13066,MMD_22_13066_RNA_macular_NeuN,ipRGC,14,macula lutea,Chen_ancestry
+MMD_22_14307,MMD_22_14307_RNA_lobe,MG_OFF,21,peripheral region of retina,Chen_ancestry
+MMD_22_14307,MMD_22_14307_RNA_lobe,MG_ON,12,peripheral region of retina,Chen_ancestry
+MMD_22_14307,MMD_22_14307_RNA_macular,MG_OFF,111,macula lutea,Chen_ancestry
+MMD_22_14307,MMD_22_14307_RNA_macular,MG_ON,131,macula lutea,Chen_ancestry
+MMD_22_14307,MMD_22_14307_RNA_macular_NeuN,HRGC10,3,macula lutea,Chen_ancestry
+MMD_22_14307,MMD_22_14307_RNA_macular_NeuN,HRGC11,1,macula lutea,Chen_ancestry
+MMD_22_14307,MMD_22_14307_RNA_macular_NeuN,HRGC12,2,macula lutea,Chen_ancestry
+MMD_22_14307,MMD_22_14307_RNA_macular_NeuN,HRGC13,6,macula lutea,Chen_ancestry
+MMD_22_14307,MMD_22_14307_RNA_macular_NeuN,HRGC14,4,macula lutea,Chen_ancestry
+MMD_22_14307,MMD_22_14307_RNA_macular_NeuN,HRGC18,2,macula lutea,Chen_ancestry
+MMD_22_14307,MMD_22_14307_RNA_macular_NeuN,HRGC20,1,macula lutea,Chen_ancestry
+MMD_22_14307,MMD_22_14307_RNA_macular_NeuN,HRGC22,2,macula lutea,Chen_ancestry
+MMD_22_14307,MMD_22_14307_RNA_macular_NeuN,HRGC7,129,macula lutea,Chen_ancestry
+MMD_22_14307,MMD_22_14307_RNA_macular_NeuN,HRGC8,3,macula lutea,Chen_ancestry
+MMD_22_14307,MMD_22_14307_RNA_macular_NeuN,HRGC9,9,macula lutea,Chen_ancestry
+MMD_22_14307,MMD_22_14307_RNA_macular_NeuN,MG_OFF,1224,macula lutea,Chen_ancestry
+MMD_22_14307,MMD_22_14307_RNA_macular_NeuN,MG_ON,1334,macula lutea,Chen_ancestry
+MMD_22_14307,MMD_22_14307_RNA_macular_NeuN,PG_OFF,123,macula lutea,Chen_ancestry
+MMD_22_14307,MMD_22_14307_RNA_macular_NeuN,PG_ON,104,macula lutea,Chen_ancestry
+MMD_22_14307,MMD_22_14307_RNA_macular_NeuN,ipRGC,30,macula lutea,Chen_ancestry
+MMD_22_16477,MMD_22_16477_RNA_lobe,MG_OFF,18,peripheral region of retina,Chen_ancestry
+MMD_22_16477,MMD_22_16477_RNA_lobe,MG_ON,5,peripheral region of retina,Chen_ancestry
+MMD_22_16477,MMD_22_16477_RNA_macular,HRGC11,23,macula lutea,Chen_ancestry
+MMD_22_16477,MMD_22_16477_RNA_macular,HRGC20,5,macula lutea,Chen_ancestry
+MMD_22_16477,MMD_22_16477_RNA_macular,HRGC7,5,macula lutea,Chen_ancestry
+MMD_22_16477,MMD_22_16477_RNA_macular,HRGC8,17,macula lutea,Chen_ancestry
+MMD_22_16477,MMD_22_16477_RNA_macular,HRGC9,1,macula lutea,Chen_ancestry
+MMD_22_16477,MMD_22_16477_RNA_macular,MG_OFF,475,macula lutea,Chen_ancestry
+MMD_22_16477,MMD_22_16477_RNA_macular,MG_ON,393,macula lutea,Chen_ancestry
+MMD_22_16477,MMD_22_16477_RNA_macular,PG_OFF,4,macula lutea,Chen_ancestry
+MMD_22_16477,MMD_22_16477_RNA_macular,PG_ON,6,macula lutea,Chen_ancestry
+MMD_22_16477,MMD_22_16477_RNA_macular_NeuN,HRGC10,5,macula lutea,Chen_ancestry
+MMD_22_16477,MMD_22_16477_RNA_macular_NeuN,HRGC11,3,macula lutea,Chen_ancestry
+MMD_22_16477,MMD_22_16477_RNA_macular_NeuN,HRGC12,13,macula lutea,Chen_ancestry
+MMD_22_16477,MMD_22_16477_RNA_macular_NeuN,HRGC14,8,macula lutea,Chen_ancestry
+MMD_22_16477,MMD_22_16477_RNA_macular_NeuN,HRGC15,1,macula lutea,Chen_ancestry
+MMD_22_16477,MMD_22_16477_RNA_macular_NeuN,HRGC16,2,macula lutea,Chen_ancestry
+MMD_22_16477,MMD_22_16477_RNA_macular_NeuN,HRGC18,5,macula lutea,Chen_ancestry
+MMD_22_16477,MMD_22_16477_RNA_macular_NeuN,HRGC20,1,macula lutea,Chen_ancestry
+MMD_22_16477,MMD_22_16477_RNA_macular_NeuN,HRGC21,1,macula lutea,Chen_ancestry
+MMD_22_16477,MMD_22_16477_RNA_macular_NeuN,HRGC22,2,macula lutea,Chen_ancestry
+MMD_22_16477,MMD_22_16477_RNA_macular_NeuN,HRGC7,64,macula lutea,Chen_ancestry
+MMD_22_16477,MMD_22_16477_RNA_macular_NeuN,HRGC8,2,macula lutea,Chen_ancestry
+MMD_22_16477,MMD_22_16477_RNA_macular_NeuN,HRGC9,7,macula lutea,Chen_ancestry
+MMD_22_16477,MMD_22_16477_RNA_macular_NeuN,MG_OFF,4525,macula lutea,Chen_ancestry
+MMD_22_16477,MMD_22_16477_RNA_macular_NeuN,MG_ON,2781,macula lutea,Chen_ancestry
+MMD_22_16477,MMD_22_16477_RNA_macular_NeuN,PG_OFF,83,macula lutea,Chen_ancestry
+MMD_22_16477,MMD_22_16477_RNA_macular_NeuN,PG_ON,146,macula lutea,Chen_ancestry
+MMD_22_16477,MMD_22_16477_RNA_macular_NeuN,ipRGC,1,macula lutea,Chen_ancestry
+MMD_22_16608,MMD_22_16608_RNA_lobe,MG_OFF,27,peripheral region of retina,Chen_ancestry
+MMD_22_16608,MMD_22_16608_RNA_lobe,MG_ON,2,peripheral region of retina,Chen_ancestry
+MMD_22_16608,MMD_22_16608_RNA_macular,MG_OFF,143,macula lutea,Chen_ancestry
+MMD_22_16608,MMD_22_16608_RNA_macular,MG_ON,97,macula lutea,Chen_ancestry
+MMD_22_16608,MMD_22_16608_RNA_macular_NeuN,MG_OFF,2144,macula lutea,Chen_ancestry
+MMD_22_16608,MMD_22_16608_RNA_macular_NeuN,MG_ON,1468,macula lutea,Chen_ancestry
+MMD_22_16860,MMD_22_16860_RNA_lobe,MG_OFF,21,peripheral region of retina,Chen_ancestry
+MMD_22_16860,MMD_22_16860_RNA_lobe,MG_ON,9,peripheral region of retina,Chen_ancestry
+MMD_22_16860,MMD_22_16860_RNA_macular,MG_OFF,158,macula lutea,Chen_ancestry
+MMD_22_16860,MMD_22_16860_RNA_macular,MG_ON,173,macula lutea,Chen_ancestry
+MMD_22_16860,MMD_22_16860_RNA_macular_NeuN,HRGC10,1,macula lutea,Chen_ancestry
+MMD_22_16860,MMD_22_16860_RNA_macular_NeuN,HRGC11,1,macula lutea,Chen_ancestry
+MMD_22_16860,MMD_22_16860_RNA_macular_NeuN,HRGC12,3,macula lutea,Chen_ancestry
+MMD_22_16860,MMD_22_16860_RNA_macular_NeuN,HRGC14,3,macula lutea,Chen_ancestry
+MMD_22_16860,MMD_22_16860_RNA_macular_NeuN,HRGC7,53,macula lutea,Chen_ancestry
+MMD_22_16860,MMD_22_16860_RNA_macular_NeuN,HRGC8,6,macula lutea,Chen_ancestry
+MMD_22_16860,MMD_22_16860_RNA_macular_NeuN,HRGC9,3,macula lutea,Chen_ancestry
+MMD_22_16860,MMD_22_16860_RNA_macular_NeuN,MG_OFF,1594,macula lutea,Chen_ancestry
+MMD_22_16860,MMD_22_16860_RNA_macular_NeuN,MG_ON,1754,macula lutea,Chen_ancestry
+MMD_22_16860,MMD_22_16860_RNA_macular_NeuN,PG_OFF,42,macula lutea,Chen_ancestry
+MMD_22_16860,MMD_22_16860_RNA_macular_NeuN,PG_ON,43,macula lutea,Chen_ancestry
+MMD_22_17017,MMD_22_17017_RNA_lobe,MG_OFF,16,peripheral region of retina,Chen_ancestry
+MMD_22_17017,MMD_22_17017_RNA_lobe,MG_ON,13,peripheral region of retina,Chen_ancestry
+MMD_22_17017,MMD_22_17017_RNA_macular,HRGC11,68,macula lutea,Chen_ancestry
+MMD_22_17017,MMD_22_17017_RNA_macular,HRGC19,2,macula lutea,Chen_ancestry
+MMD_22_17017,MMD_22_17017_RNA_macular,HRGC20,6,macula lutea,Chen_ancestry
+MMD_22_17017,MMD_22_17017_RNA_macular,HRGC7,4,macula lutea,Chen_ancestry
+MMD_22_17017,MMD_22_17017_RNA_macular,HRGC8,19,macula lutea,Chen_ancestry
+MMD_22_17017,MMD_22_17017_RNA_macular,HRGC9,1,macula lutea,Chen_ancestry
+MMD_22_17017,MMD_22_17017_RNA_macular,MG_OFF,442,macula lutea,Chen_ancestry
+MMD_22_17017,MMD_22_17017_RNA_macular,MG_ON,366,macula lutea,Chen_ancestry
+MMD_22_17017,MMD_22_17017_RNA_macular,PG_OFF,3,macula lutea,Chen_ancestry
+MMD_22_17017,MMD_22_17017_RNA_macular,PG_ON,1,macula lutea,Chen_ancestry
+MMD_22_17017,MMD_22_17017_RNA_macular_NeuN,DS_ON,1,macula lutea,Chen_ancestry
+MMD_22_17017,MMD_22_17017_RNA_macular_NeuN,HRGC10,11,macula lutea,Chen_ancestry
+MMD_22_17017,MMD_22_17017_RNA_macular_NeuN,HRGC11,2,macula lutea,Chen_ancestry
+MMD_22_17017,MMD_22_17017_RNA_macular_NeuN,HRGC12,10,macula lutea,Chen_ancestry
+MMD_22_17017,MMD_22_17017_RNA_macular_NeuN,HRGC14,1,macula lutea,Chen_ancestry
+MMD_22_17017,MMD_22_17017_RNA_macular_NeuN,HRGC15,2,macula lutea,Chen_ancestry
+MMD_22_17017,MMD_22_17017_RNA_macular_NeuN,HRGC17,7,macula lutea,Chen_ancestry
+MMD_22_17017,MMD_22_17017_RNA_macular_NeuN,HRGC18,1,macula lutea,Chen_ancestry
+MMD_22_17017,MMD_22_17017_RNA_macular_NeuN,HRGC19,1,macula lutea,Chen_ancestry
+MMD_22_17017,MMD_22_17017_RNA_macular_NeuN,HRGC20,4,macula lutea,Chen_ancestry
+MMD_22_17017,MMD_22_17017_RNA_macular_NeuN,HRGC21,1,macula lutea,Chen_ancestry
+MMD_22_17017,MMD_22_17017_RNA_macular_NeuN,HRGC22,1,macula lutea,Chen_ancestry
+MMD_22_17017,MMD_22_17017_RNA_macular_NeuN,HRGC7,35,macula lutea,Chen_ancestry
+MMD_22_17017,MMD_22_17017_RNA_macular_NeuN,HRGC8,6,macula lutea,Chen_ancestry
+MMD_22_17017,MMD_22_17017_RNA_macular_NeuN,MG_OFF,2383,macula lutea,Chen_ancestry
+MMD_22_17017,MMD_22_17017_RNA_macular_NeuN,MG_ON,1877,macula lutea,Chen_ancestry
+MMD_22_17017,MMD_22_17017_RNA_macular_NeuN,PG_OFF,39,macula lutea,Chen_ancestry
+MMD_22_17017,MMD_22_17017_RNA_macular_NeuN,PG_ON,36,macula lutea,Chen_ancestry
+MMD_22_17017,MMD_22_17017_RNA_macular_NeuN,ipRGC,8,macula lutea,Chen_ancestry
+MMD_22_17464,MMD_22_17464_RNA_lobe,MG_OFF,21,peripheral region of retina,Chen_ancestry
+MMD_22_17464,MMD_22_17464_RNA_lobe,MG_ON,7,peripheral region of retina,Chen_ancestry
+MMD_22_17464,MMD_22_17464_RNA_macular,HRGC11,22,macula lutea,Chen_ancestry
+MMD_22_17464,MMD_22_17464_RNA_macular,HRGC19,6,macula lutea,Chen_ancestry
+MMD_22_17464,MMD_22_17464_RNA_macular,HRGC20,4,macula lutea,Chen_ancestry
+MMD_22_17464,MMD_22_17464_RNA_macular,HRGC7,7,macula lutea,Chen_ancestry
+MMD_22_17464,MMD_22_17464_RNA_macular,HRGC8,23,macula lutea,Chen_ancestry
+MMD_22_17464,MMD_22_17464_RNA_macular,MG_OFF,292,macula lutea,Chen_ancestry
+MMD_22_17464,MMD_22_17464_RNA_macular,MG_ON,274,macula lutea,Chen_ancestry
+MMD_22_17464,MMD_22_17464_RNA_macular,PG_OFF,5,macula lutea,Chen_ancestry
+MMD_22_17464,MMD_22_17464_RNA_macular,ipRGC,1,macula lutea,Chen_ancestry
+MMD_22_17464,MMD_22_17464_RNA_macular_NeuN,DS_ON,2,macula lutea,Chen_ancestry
+MMD_22_17464,MMD_22_17464_RNA_macular_NeuN,HRGC10,2,macula lutea,Chen_ancestry
+MMD_22_17464,MMD_22_17464_RNA_macular_NeuN,HRGC11,7,macula lutea,Chen_ancestry
+MMD_22_17464,MMD_22_17464_RNA_macular_NeuN,HRGC12,14,macula lutea,Chen_ancestry
+MMD_22_17464,MMD_22_17464_RNA_macular_NeuN,HRGC14,1,macula lutea,Chen_ancestry
+MMD_22_17464,MMD_22_17464_RNA_macular_NeuN,HRGC15,7,macula lutea,Chen_ancestry
+MMD_22_17464,MMD_22_17464_RNA_macular_NeuN,HRGC16,4,macula lutea,Chen_ancestry
+MMD_22_17464,MMD_22_17464_RNA_macular_NeuN,HRGC17,2,macula lutea,Chen_ancestry
+MMD_22_17464,MMD_22_17464_RNA_macular_NeuN,HRGC18,6,macula lutea,Chen_ancestry
+MMD_22_17464,MMD_22_17464_RNA_macular_NeuN,HRGC19,12,macula lutea,Chen_ancestry
+MMD_22_17464,MMD_22_17464_RNA_macular_NeuN,HRGC20,2,macula lutea,Chen_ancestry
+MMD_22_17464,MMD_22_17464_RNA_macular_NeuN,HRGC7,127,macula lutea,Chen_ancestry
+MMD_22_17464,MMD_22_17464_RNA_macular_NeuN,HRGC8,12,macula lutea,Chen_ancestry
+MMD_22_17464,MMD_22_17464_RNA_macular_NeuN,HRGC9,10,macula lutea,Chen_ancestry
+MMD_22_17464,MMD_22_17464_RNA_macular_NeuN,MG_OFF,3743,macula lutea,Chen_ancestry
+MMD_22_17464,MMD_22_17464_RNA_macular_NeuN,MG_ON,4037,macula lutea,Chen_ancestry
+MMD_22_17464,MMD_22_17464_RNA_macular_NeuN,PG_OFF,72,macula lutea,Chen_ancestry
+MMD_22_17464,MMD_22_17464_RNA_macular_NeuN,PG_ON,265,macula lutea,Chen_ancestry
+MMD_22_17939,MMD_22_17939_RNA_macular,MG_OFF,182,macula lutea,Chen_ancestry
+MMD_22_17939,MMD_22_17939_RNA_macular,MG_ON,121,macula lutea,Chen_ancestry
+MMD_22_17939,MMD_22_17939_RNA_macular_NeuN,HRGC10,2,macula lutea,Chen_ancestry
+MMD_22_17939,MMD_22_17939_RNA_macular_NeuN,HRGC11,2,macula lutea,Chen_ancestry
+MMD_22_17939,MMD_22_17939_RNA_macular_NeuN,HRGC12,2,macula lutea,Chen_ancestry
+MMD_22_17939,MMD_22_17939_RNA_macular_NeuN,HRGC13,1,macula lutea,Chen_ancestry
+MMD_22_17939,MMD_22_17939_RNA_macular_NeuN,HRGC14,1,macula lutea,Chen_ancestry
+MMD_22_17939,MMD_22_17939_RNA_macular_NeuN,HRGC15,1,macula lutea,Chen_ancestry
+MMD_22_17939,MMD_22_17939_RNA_macular_NeuN,HRGC16,3,macula lutea,Chen_ancestry
+MMD_22_17939,MMD_22_17939_RNA_macular_NeuN,HRGC18,4,macula lutea,Chen_ancestry
+MMD_22_17939,MMD_22_17939_RNA_macular_NeuN,HRGC7,20,macula lutea,Chen_ancestry
+MMD_22_17939,MMD_22_17939_RNA_macular_NeuN,HRGC8,4,macula lutea,Chen_ancestry
+MMD_22_17939,MMD_22_17939_RNA_macular_NeuN,HRGC9,6,macula lutea,Chen_ancestry
+MMD_22_17939,MMD_22_17939_RNA_macular_NeuN,MG_OFF,1830,macula lutea,Chen_ancestry
+MMD_22_17939,MMD_22_17939_RNA_macular_NeuN,MG_ON,1540,macula lutea,Chen_ancestry
+MMD_22_17939,MMD_22_17939_RNA_macular_NeuN,PG_OFF,23,macula lutea,Chen_ancestry
+MMD_22_17939,MMD_22_17939_RNA_macular_NeuN,PG_ON,37,macula lutea,Chen_ancestry
+MMD_22_18633,MMD_22_18633_RNA_lobe,MG_OFF,1,peripheral region of retina,Chen_ancestry
+MMD_22_18633,MMD_22_18633_RNA_lobe,MG_ON,5,peripheral region of retina,Chen_ancestry
+MMD_22_18633,MMD_22_18633_RNA_macular,MG_OFF,78,macula lutea,Chen_ancestry
+MMD_22_18633,MMD_22_18633_RNA_macular,MG_ON,83,macula lutea,Chen_ancestry
+MMD_22_18633,MMD_22_18633_RNA_macular_NeuN_s1,DS_ON,1,macula lutea,Chen_ancestry
+MMD_22_18633,MMD_22_18633_RNA_macular_NeuN_s1,HRGC10,1,macula lutea,Chen_ancestry
+MMD_22_18633,MMD_22_18633_RNA_macular_NeuN_s1,HRGC11,1,macula lutea,Chen_ancestry
+MMD_22_18633,MMD_22_18633_RNA_macular_NeuN_s1,HRGC12,3,macula lutea,Chen_ancestry
+MMD_22_18633,MMD_22_18633_RNA_macular_NeuN_s1,HRGC14,5,macula lutea,Chen_ancestry
+MMD_22_18633,MMD_22_18633_RNA_macular_NeuN_s1,HRGC15,2,macula lutea,Chen_ancestry
+MMD_22_18633,MMD_22_18633_RNA_macular_NeuN_s1,HRGC16,7,macula lutea,Chen_ancestry
+MMD_22_18633,MMD_22_18633_RNA_macular_NeuN_s1,HRGC17,4,macula lutea,Chen_ancestry
+MMD_22_18633,MMD_22_18633_RNA_macular_NeuN_s1,HRGC19,1,macula lutea,Chen_ancestry
+MMD_22_18633,MMD_22_18633_RNA_macular_NeuN_s1,HRGC20,2,macula lutea,Chen_ancestry
+MMD_22_18633,MMD_22_18633_RNA_macular_NeuN_s1,HRGC7,31,macula lutea,Chen_ancestry
+MMD_22_18633,MMD_22_18633_RNA_macular_NeuN_s1,HRGC8,6,macula lutea,Chen_ancestry
+MMD_22_18633,MMD_22_18633_RNA_macular_NeuN_s1,HRGC9,7,macula lutea,Chen_ancestry
+MMD_22_18633,MMD_22_18633_RNA_macular_NeuN_s1,MG_OFF,1132,macula lutea,Chen_ancestry
+MMD_22_18633,MMD_22_18633_RNA_macular_NeuN_s1,MG_ON,1770,macula lutea,Chen_ancestry
+MMD_22_18633,MMD_22_18633_RNA_macular_NeuN_s1,PG_OFF,48,macula lutea,Chen_ancestry
+MMD_22_18633,MMD_22_18633_RNA_macular_NeuN_s1,PG_ON,61,macula lutea,Chen_ancestry
+MMD_22_18633,MMD_22_18633_RNA_macular_NeuN_s1,ipRGC,3,macula lutea,Chen_ancestry
+MMD_22_20137,MMD_22_20137_RNA_macular,MG_OFF,84,macula lutea,Chen_ancestry
+MMD_22_20137,MMD_22_20137_RNA_macular,MG_ON,76,macula lutea,Chen_ancestry
+MMD_22_20137,MMD_22_20137_RNA_macular_NeuN,DS_ON,1,macula lutea,Chen_ancestry
+MMD_22_20137,MMD_22_20137_RNA_macular_NeuN,HRGC10,6,macula lutea,Chen_ancestry
+MMD_22_20137,MMD_22_20137_RNA_macular_NeuN,HRGC11,7,macula lutea,Chen_ancestry
+MMD_22_20137,MMD_22_20137_RNA_macular_NeuN,HRGC12,14,macula lutea,Chen_ancestry
+MMD_22_20137,MMD_22_20137_RNA_macular_NeuN,HRGC14,7,macula lutea,Chen_ancestry
+MMD_22_20137,MMD_22_20137_RNA_macular_NeuN,HRGC15,5,macula lutea,Chen_ancestry
+MMD_22_20137,MMD_22_20137_RNA_macular_NeuN,HRGC16,1,macula lutea,Chen_ancestry
+MMD_22_20137,MMD_22_20137_RNA_macular_NeuN,HRGC18,7,macula lutea,Chen_ancestry
+MMD_22_20137,MMD_22_20137_RNA_macular_NeuN,HRGC19,3,macula lutea,Chen_ancestry
+MMD_22_20137,MMD_22_20137_RNA_macular_NeuN,HRGC20,2,macula lutea,Chen_ancestry
+MMD_22_20137,MMD_22_20137_RNA_macular_NeuN,HRGC21,8,macula lutea,Chen_ancestry
+MMD_22_20137,MMD_22_20137_RNA_macular_NeuN,HRGC22,2,macula lutea,Chen_ancestry
+MMD_22_20137,MMD_22_20137_RNA_macular_NeuN,HRGC23,3,macula lutea,Chen_ancestry
+MMD_22_20137,MMD_22_20137_RNA_macular_NeuN,HRGC7,104,macula lutea,Chen_ancestry
+MMD_22_20137,MMD_22_20137_RNA_macular_NeuN,HRGC8,27,macula lutea,Chen_ancestry
+MMD_22_20137,MMD_22_20137_RNA_macular_NeuN,HRGC9,9,macula lutea,Chen_ancestry
+MMD_22_20137,MMD_22_20137_RNA_macular_NeuN,MG_OFF,4071,macula lutea,Chen_ancestry
+MMD_22_20137,MMD_22_20137_RNA_macular_NeuN,MG_ON,3139,macula lutea,Chen_ancestry
+MMD_22_20137,MMD_22_20137_RNA_macular_NeuN,PG_OFF,119,macula lutea,Chen_ancestry
+MMD_22_20137,MMD_22_20137_RNA_macular_NeuN,PG_ON,91,macula lutea,Chen_ancestry
+MMD_22_20137,MMD_22_20137_RNA_macular_NeuN,ipRGC,24,macula lutea,Chen_ancestry
+MMD_22_20357,MMD_22_18633_RNA_macular_NeuN_s2,DS_ON,21,macula lutea,Chen_ancestry
+MMD_22_20357,MMD_22_18633_RNA_macular_NeuN_s2,HRGC10,17,macula lutea,Chen_ancestry
+MMD_22_20357,MMD_22_18633_RNA_macular_NeuN_s2,HRGC11,12,macula lutea,Chen_ancestry
+MMD_22_20357,MMD_22_18633_RNA_macular_NeuN_s2,HRGC12,26,macula lutea,Chen_ancestry
+MMD_22_20357,MMD_22_18633_RNA_macular_NeuN_s2,HRGC13,1,macula lutea,Chen_ancestry
+MMD_22_20357,MMD_22_18633_RNA_macular_NeuN_s2,HRGC14,14,macula lutea,Chen_ancestry
+MMD_22_20357,MMD_22_18633_RNA_macular_NeuN_s2,HRGC15,16,macula lutea,Chen_ancestry
+MMD_22_20357,MMD_22_18633_RNA_macular_NeuN_s2,HRGC17,4,macula lutea,Chen_ancestry
+MMD_22_20357,MMD_22_18633_RNA_macular_NeuN_s2,HRGC18,2,macula lutea,Chen_ancestry
+MMD_22_20357,MMD_22_18633_RNA_macular_NeuN_s2,HRGC19,8,macula lutea,Chen_ancestry
+MMD_22_20357,MMD_22_18633_RNA_macular_NeuN_s2,HRGC20,3,macula lutea,Chen_ancestry
+MMD_22_20357,MMD_22_18633_RNA_macular_NeuN_s2,HRGC21,8,macula lutea,Chen_ancestry
+MMD_22_20357,MMD_22_18633_RNA_macular_NeuN_s2,HRGC22,8,macula lutea,Chen_ancestry
+MMD_22_20357,MMD_22_18633_RNA_macular_NeuN_s2,HRGC23,4,macula lutea,Chen_ancestry
+MMD_22_20357,MMD_22_18633_RNA_macular_NeuN_s2,HRGC7,105,macula lutea,Chen_ancestry
+MMD_22_20357,MMD_22_18633_RNA_macular_NeuN_s2,HRGC8,11,macula lutea,Chen_ancestry
+MMD_22_20357,MMD_22_18633_RNA_macular_NeuN_s2,HRGC9,26,macula lutea,Chen_ancestry
+MMD_22_20357,MMD_22_18633_RNA_macular_NeuN_s2,MG_OFF,10645,macula lutea,Chen_ancestry
+MMD_22_20357,MMD_22_18633_RNA_macular_NeuN_s2,MG_ON,8032,macula lutea,Chen_ancestry
+MMD_22_20357,MMD_22_18633_RNA_macular_NeuN_s2,PG_OFF,156,macula lutea,Chen_ancestry
+MMD_22_20357,MMD_22_18633_RNA_macular_NeuN_s2,PG_ON,224,macula lutea,Chen_ancestry
+MMD_22_20357,MMD_22_18633_RNA_macular_NeuN_s2,ipRGC,31,macula lutea,Chen_ancestry
+MMD_22_20357,MMD_22_20357_RNA_lobe,MG_OFF,27,peripheral region of retina,Chen_ancestry
+MMD_22_20357,MMD_22_20357_RNA_lobe,MG_ON,8,peripheral region of retina,Chen_ancestry
+MMD_22_20357,MMD_22_20357_RNA_macular,HRGC10,1,macula lutea,Chen_ancestry
+MMD_22_20357,MMD_22_20357_RNA_macular,HRGC11,48,macula lutea,Chen_ancestry
+MMD_22_20357,MMD_22_20357_RNA_macular,HRGC19,2,macula lutea,Chen_ancestry
+MMD_22_20357,MMD_22_20357_RNA_macular,HRGC20,2,macula lutea,Chen_ancestry
+MMD_22_20357,MMD_22_20357_RNA_macular,HRGC7,2,macula lutea,Chen_ancestry
+MMD_22_20357,MMD_22_20357_RNA_macular,HRGC8,12,macula lutea,Chen_ancestry
+MMD_22_20357,MMD_22_20357_RNA_macular,MG_OFF,287,macula lutea,Chen_ancestry
+MMD_22_20357,MMD_22_20357_RNA_macular,MG_ON,237,macula lutea,Chen_ancestry
+MMD_22_20357,MMD_22_20357_RNA_macular,PG_OFF,1,macula lutea,Chen_ancestry
+MMD_22_20357,MMD_22_20357_RNA_macular,PG_ON,3,macula lutea,Chen_ancestry
+MMD_22_20372,MMD_22_20372_RNA_lobe,MG_OFF,9,peripheral region of retina,Chen_ancestry
+MMD_22_20372,MMD_22_20372_RNA_lobe,MG_ON,4,peripheral region of retina,Chen_ancestry
+MMD_22_20372,MMD_22_20372_RNA_macular,MG_OFF,203,macula lutea,Chen_ancestry
+MMD_22_20372,MMD_22_20372_RNA_macular,MG_ON,205,macula lutea,Chen_ancestry
+MMD_22_20372,MMD_22_20372_RNA_macular_NeuN,HRGC10,9,macula lutea,Chen_ancestry
+MMD_22_20372,MMD_22_20372_RNA_macular_NeuN,HRGC11,7,macula lutea,Chen_ancestry
+MMD_22_20372,MMD_22_20372_RNA_macular_NeuN,HRGC12,21,macula lutea,Chen_ancestry
+MMD_22_20372,MMD_22_20372_RNA_macular_NeuN,HRGC14,13,macula lutea,Chen_ancestry
+MMD_22_20372,MMD_22_20372_RNA_macular_NeuN,HRGC15,2,macula lutea,Chen_ancestry
+MMD_22_20372,MMD_22_20372_RNA_macular_NeuN,HRGC16,6,macula lutea,Chen_ancestry
+MMD_22_20372,MMD_22_20372_RNA_macular_NeuN,HRGC17,2,macula lutea,Chen_ancestry
+MMD_22_20372,MMD_22_20372_RNA_macular_NeuN,HRGC18,7,macula lutea,Chen_ancestry
+MMD_22_20372,MMD_22_20372_RNA_macular_NeuN,HRGC19,4,macula lutea,Chen_ancestry
+MMD_22_20372,MMD_22_20372_RNA_macular_NeuN,HRGC20,2,macula lutea,Chen_ancestry
+MMD_22_20372,MMD_22_20372_RNA_macular_NeuN,HRGC23,1,macula lutea,Chen_ancestry
+MMD_22_20372,MMD_22_20372_RNA_macular_NeuN,HRGC7,116,macula lutea,Chen_ancestry
+MMD_22_20372,MMD_22_20372_RNA_macular_NeuN,HRGC8,14,macula lutea,Chen_ancestry
+MMD_22_20372,MMD_22_20372_RNA_macular_NeuN,HRGC9,29,macula lutea,Chen_ancestry
+MMD_22_20372,MMD_22_20372_RNA_macular_NeuN,MG_OFF,3736,macula lutea,Chen_ancestry
+MMD_22_20372,MMD_22_20372_RNA_macular_NeuN,MG_ON,3632,macula lutea,Chen_ancestry
+MMD_22_20372,MMD_22_20372_RNA_macular_NeuN,PG_OFF,133,macula lutea,Chen_ancestry
+MMD_22_20372,MMD_22_20372_RNA_macular_NeuN,PG_ON,84,macula lutea,Chen_ancestry
+MMD_22_20372,MMD_22_20372_RNA_macular_NeuN,ipRGC,16,macula lutea,Chen_ancestry
+MMD_22_21878,MMD_22_21878_RNA_macular,MG_OFF,171,macula lutea,Chen_ancestry
+MMD_22_21878,MMD_22_21878_RNA_macular,MG_ON,170,macula lutea,Chen_ancestry
+MMD_22_21878,MMD_22_21878_RNA_macular_NeuN,HRGC10,22,macula lutea,Chen_ancestry
+MMD_22_21878,MMD_22_21878_RNA_macular_NeuN,HRGC11,11,macula lutea,Chen_ancestry
+MMD_22_21878,MMD_22_21878_RNA_macular_NeuN,HRGC12,13,macula lutea,Chen_ancestry
+MMD_22_21878,MMD_22_21878_RNA_macular_NeuN,HRGC14,3,macula lutea,Chen_ancestry
+MMD_22_21878,MMD_22_21878_RNA_macular_NeuN,HRGC15,3,macula lutea,Chen_ancestry
+MMD_22_21878,MMD_22_21878_RNA_macular_NeuN,HRGC17,7,macula lutea,Chen_ancestry
+MMD_22_21878,MMD_22_21878_RNA_macular_NeuN,HRGC18,2,macula lutea,Chen_ancestry
+MMD_22_21878,MMD_22_21878_RNA_macular_NeuN,HRGC19,4,macula lutea,Chen_ancestry
+MMD_22_21878,MMD_22_21878_RNA_macular_NeuN,HRGC20,14,macula lutea,Chen_ancestry
+MMD_22_21878,MMD_22_21878_RNA_macular_NeuN,HRGC21,1,macula lutea,Chen_ancestry
+MMD_22_21878,MMD_22_21878_RNA_macular_NeuN,HRGC22,1,macula lutea,Chen_ancestry
+MMD_22_21878,MMD_22_21878_RNA_macular_NeuN,HRGC23,2,macula lutea,Chen_ancestry
+MMD_22_21878,MMD_22_21878_RNA_macular_NeuN,HRGC7,97,macula lutea,Chen_ancestry
+MMD_22_21878,MMD_22_21878_RNA_macular_NeuN,HRGC8,31,macula lutea,Chen_ancestry
+MMD_22_21878,MMD_22_21878_RNA_macular_NeuN,HRGC9,7,macula lutea,Chen_ancestry
+MMD_22_21878,MMD_22_21878_RNA_macular_NeuN,MG_OFF,2807,macula lutea,Chen_ancestry
+MMD_22_21878,MMD_22_21878_RNA_macular_NeuN,MG_ON,2656,macula lutea,Chen_ancestry
+MMD_22_21878,MMD_22_21878_RNA_macular_NeuN,PG_OFF,82,macula lutea,Chen_ancestry
+MMD_22_21878,MMD_22_21878_RNA_macular_NeuN,PG_ON,104,macula lutea,Chen_ancestry
+MMD_22_21878,MMD_22_21878_RNA_macular_NeuN,ipRGC,28,macula lutea,Chen_ancestry
+MMD_22_25357,MMD_22_25357_RNA_lobe,MG_OFF,9,peripheral region of retina,Chen_ancestry
+MMD_22_25357,MMD_22_25357_RNA_lobe,MG_ON,1,peripheral region of retina,Chen_ancestry
+MMD_22_25357,MMD_22_25357_RNA_macular,HRGC8,1,macula lutea,Chen_ancestry
+MMD_22_25357,MMD_22_25357_RNA_macular,MG_OFF,2,macula lutea,Chen_ancestry
+MMD_22_25357,MMD_22_25357_RNA_macular,MG_ON,4,macula lutea,Chen_ancestry
+MMD_22_25357,MMD_22_25357_RNA_macular_NeuN,HRGC11,1,macula lutea,Chen_ancestry
+MMD_22_25357,MMD_22_25357_RNA_macular_NeuN,HRGC12,5,macula lutea,Chen_ancestry
+MMD_22_25357,MMD_22_25357_RNA_macular_NeuN,HRGC16,1,macula lutea,Chen_ancestry
+MMD_22_25357,MMD_22_25357_RNA_macular_NeuN,HRGC18,1,macula lutea,Chen_ancestry
+MMD_22_25357,MMD_22_25357_RNA_macular_NeuN,HRGC20,1,macula lutea,Chen_ancestry
+MMD_22_25357,MMD_22_25357_RNA_macular_NeuN,HRGC7,10,macula lutea,Chen_ancestry
+MMD_22_25357,MMD_22_25357_RNA_macular_NeuN,HRGC8,1,macula lutea,Chen_ancestry
+MMD_22_25357,MMD_22_25357_RNA_macular_NeuN,HRGC9,4,macula lutea,Chen_ancestry
+MMD_22_25357,MMD_22_25357_RNA_macular_NeuN,MG_OFF,35,macula lutea,Chen_ancestry
+MMD_22_25357,MMD_22_25357_RNA_macular_NeuN,MG_ON,41,macula lutea,Chen_ancestry
+MMD_22_25357,MMD_22_25357_RNA_macular_NeuN,PG_OFF,16,macula lutea,Chen_ancestry
+MMD_22_25357,MMD_22_25357_RNA_macular_NeuN,PG_ON,8,macula lutea,Chen_ancestry
+MMD_22_25357,MMD_22_25357_RNA_macular_NeuN,ipRGC,4,macula lutea,Chen_ancestry
+MMD_22_32888,MMD_22_32888_RNA_lobe,MG_OFF,29,peripheral region of retina,Chen_ancestry
+MMD_22_32888,MMD_22_32888_RNA_lobe,MG_ON,18,peripheral region of retina,Chen_ancestry
+MMD_22_32888,MMD_22_32888_RNA_macular,MG_OFF,370,macula lutea,Chen_ancestry
+MMD_22_32888,MMD_22_32888_RNA_macular,MG_ON,365,macula lutea,Chen_ancestry
+MMD_22_32888,MMD_22_32888_RNA_macular_NeuN,DS_ON,8,macula lutea,Chen_ancestry
+MMD_22_32888,MMD_22_32888_RNA_macular_NeuN,HRGC10,32,macula lutea,Chen_ancestry
+MMD_22_32888,MMD_22_32888_RNA_macular_NeuN,HRGC11,20,macula lutea,Chen_ancestry
+MMD_22_32888,MMD_22_32888_RNA_macular_NeuN,HRGC12,15,macula lutea,Chen_ancestry
+MMD_22_32888,MMD_22_32888_RNA_macular_NeuN,HRGC13,1,macula lutea,Chen_ancestry
+MMD_22_32888,MMD_22_32888_RNA_macular_NeuN,HRGC14,14,macula lutea,Chen_ancestry
+MMD_22_32888,MMD_22_32888_RNA_macular_NeuN,HRGC15,28,macula lutea,Chen_ancestry
+MMD_22_32888,MMD_22_32888_RNA_macular_NeuN,HRGC16,14,macula lutea,Chen_ancestry
+MMD_22_32888,MMD_22_32888_RNA_macular_NeuN,HRGC17,12,macula lutea,Chen_ancestry
+MMD_22_32888,MMD_22_32888_RNA_macular_NeuN,HRGC18,11,macula lutea,Chen_ancestry
+MMD_22_32888,MMD_22_32888_RNA_macular_NeuN,HRGC19,12,macula lutea,Chen_ancestry
+MMD_22_32888,MMD_22_32888_RNA_macular_NeuN,HRGC20,6,macula lutea,Chen_ancestry
+MMD_22_32888,MMD_22_32888_RNA_macular_NeuN,HRGC21,6,macula lutea,Chen_ancestry
+MMD_22_32888,MMD_22_32888_RNA_macular_NeuN,HRGC22,6,macula lutea,Chen_ancestry
+MMD_22_32888,MMD_22_32888_RNA_macular_NeuN,HRGC23,7,macula lutea,Chen_ancestry
+MMD_22_32888,MMD_22_32888_RNA_macular_NeuN,HRGC7,275,macula lutea,Chen_ancestry
+MMD_22_32888,MMD_22_32888_RNA_macular_NeuN,HRGC8,26,macula lutea,Chen_ancestry
+MMD_22_32888,MMD_22_32888_RNA_macular_NeuN,HRGC9,60,macula lutea,Chen_ancestry
+MMD_22_32888,MMD_22_32888_RNA_macular_NeuN,MG_OFF,8306,macula lutea,Chen_ancestry
+MMD_22_32888,MMD_22_32888_RNA_macular_NeuN,MG_ON,7867,macula lutea,Chen_ancestry
+MMD_22_32888,MMD_22_32888_RNA_macular_NeuN,PG_OFF,221,macula lutea,Chen_ancestry
+MMD_22_32888,MMD_22_32888_RNA_macular_NeuN,PG_ON,228,macula lutea,Chen_ancestry
+MMD_22_32888,MMD_22_32888_RNA_macular_NeuN,ipRGC,42,macula lutea,Chen_ancestry
+MMD_22_33472,MMD_22_33472_RNA_lobe,MG_OFF,9,peripheral region of retina,Chen_ancestry
+MMD_22_33472,MMD_22_33472_RNA_lobe,MG_ON,4,peripheral region of retina,Chen_ancestry
+MMD_22_33472,MMD_22_33472_RNA_macular,MG_OFF,470,macula lutea,Chen_ancestry
+MMD_22_33472,MMD_22_33472_RNA_macular,MG_ON,400,macula lutea,Chen_ancestry
+MMD_22_33472,MMD_22_33472_RNA_macular_NeuN,DS_ON,1,macula lutea,Chen_ancestry
+MMD_22_33472,MMD_22_33472_RNA_macular_NeuN,HRGC10,8,macula lutea,Chen_ancestry
+MMD_22_33472,MMD_22_33472_RNA_macular_NeuN,HRGC11,22,macula lutea,Chen_ancestry
+MMD_22_33472,MMD_22_33472_RNA_macular_NeuN,HRGC12,8,macula lutea,Chen_ancestry
+MMD_22_33472,MMD_22_33472_RNA_macular_NeuN,HRGC14,11,macula lutea,Chen_ancestry
+MMD_22_33472,MMD_22_33472_RNA_macular_NeuN,HRGC15,13,macula lutea,Chen_ancestry
+MMD_22_33472,MMD_22_33472_RNA_macular_NeuN,HRGC16,17,macula lutea,Chen_ancestry
+MMD_22_33472,MMD_22_33472_RNA_macular_NeuN,HRGC17,4,macula lutea,Chen_ancestry
+MMD_22_33472,MMD_22_33472_RNA_macular_NeuN,HRGC18,3,macula lutea,Chen_ancestry
+MMD_22_33472,MMD_22_33472_RNA_macular_NeuN,HRGC19,28,macula lutea,Chen_ancestry
+MMD_22_33472,MMD_22_33472_RNA_macular_NeuN,HRGC20,9,macula lutea,Chen_ancestry
+MMD_22_33472,MMD_22_33472_RNA_macular_NeuN,HRGC7,535,macula lutea,Chen_ancestry
+MMD_22_33472,MMD_22_33472_RNA_macular_NeuN,HRGC8,32,macula lutea,Chen_ancestry
+MMD_22_33472,MMD_22_33472_RNA_macular_NeuN,HRGC9,29,macula lutea,Chen_ancestry
+MMD_22_33472,MMD_22_33472_RNA_macular_NeuN,MG_OFF,14152,macula lutea,Chen_ancestry
+MMD_22_33472,MMD_22_33472_RNA_macular_NeuN,MG_ON,11757,macula lutea,Chen_ancestry
+MMD_22_33472,MMD_22_33472_RNA_macular_NeuN,PG_OFF,387,macula lutea,Chen_ancestry
+MMD_22_33472,MMD_22_33472_RNA_macular_NeuN,PG_ON,951,macula lutea,Chen_ancestry
+MMD_22_33472,MMD_22_33472_RNA_macular_NeuN,ipRGC,5,macula lutea,Chen_ancestry
+MMD_22_34032,MMD_22_34032_RNA_macular,MG_OFF,136,macula lutea,Chen_ancestry
+MMD_22_34032,MMD_22_34032_RNA_macular,MG_ON,93,macula lutea,Chen_ancestry
+MMD_22_37089,MMD_22_37089_RNA_lobe,MG_OFF,1,peripheral region of retina,Chen_ancestry
+MMD_22_37089,MMD_22_37089_RNA_lobe,MG_ON,12,peripheral region of retina,Chen_ancestry
+MMD_22_37089,MMD_22_37089_RNA_macular,MG_OFF,49,macula lutea,Chen_ancestry
+MMD_22_37089,MMD_22_37089_RNA_macular,MG_ON,45,macula lutea,Chen_ancestry
+MMD_22_37089,MMD_22_37089_RNA_macular_NeuN,DS_ON,1,macula lutea,Chen_ancestry
+MMD_22_37089,MMD_22_37089_RNA_macular_NeuN,HRGC10,10,macula lutea,Chen_ancestry
+MMD_22_37089,MMD_22_37089_RNA_macular_NeuN,HRGC11,2,macula lutea,Chen_ancestry
+MMD_22_37089,MMD_22_37089_RNA_macular_NeuN,HRGC12,18,macula lutea,Chen_ancestry
+MMD_22_37089,MMD_22_37089_RNA_macular_NeuN,HRGC14,4,macula lutea,Chen_ancestry
+MMD_22_37089,MMD_22_37089_RNA_macular_NeuN,HRGC15,4,macula lutea,Chen_ancestry
+MMD_22_37089,MMD_22_37089_RNA_macular_NeuN,HRGC16,6,macula lutea,Chen_ancestry
+MMD_22_37089,MMD_22_37089_RNA_macular_NeuN,HRGC18,1,macula lutea,Chen_ancestry
+MMD_22_37089,MMD_22_37089_RNA_macular_NeuN,HRGC19,1,macula lutea,Chen_ancestry
+MMD_22_37089,MMD_22_37089_RNA_macular_NeuN,HRGC20,1,macula lutea,Chen_ancestry
+MMD_22_37089,MMD_22_37089_RNA_macular_NeuN,HRGC21,2,macula lutea,Chen_ancestry
+MMD_22_37089,MMD_22_37089_RNA_macular_NeuN,HRGC22,4,macula lutea,Chen_ancestry
+MMD_22_37089,MMD_22_37089_RNA_macular_NeuN,HRGC23,3,macula lutea,Chen_ancestry
+MMD_22_37089,MMD_22_37089_RNA_macular_NeuN,HRGC7,56,macula lutea,Chen_ancestry
+MMD_22_37089,MMD_22_37089_RNA_macular_NeuN,HRGC8,4,macula lutea,Chen_ancestry
+MMD_22_37089,MMD_22_37089_RNA_macular_NeuN,HRGC9,11,macula lutea,Chen_ancestry
+MMD_22_37089,MMD_22_37089_RNA_macular_NeuN,MG_OFF,2371,macula lutea,Chen_ancestry
+MMD_22_37089,MMD_22_37089_RNA_macular_NeuN,MG_ON,1979,macula lutea,Chen_ancestry
+MMD_22_37089,MMD_22_37089_RNA_macular_NeuN,PG_OFF,84,macula lutea,Chen_ancestry
+MMD_22_37089,MMD_22_37089_RNA_macular_NeuN,PG_ON,74,macula lutea,Chen_ancestry
+MMD_22_37089,MMD_22_37089_RNA_macular_NeuN,ipRGC,25,macula lutea,Chen_ancestry
+MMD_22_37117,MMD_22_37117_RNA_lobe,MG_OFF,56,peripheral region of retina,Chen_ancestry
+MMD_22_37117,MMD_22_37117_RNA_lobe,MG_ON,26,peripheral region of retina,Chen_ancestry
+MMD_22_37117,MMD_22_37117_RNA_macular,HRGC11,18,macula lutea,Chen_ancestry
+MMD_22_37117,MMD_22_37117_RNA_macular,HRGC17,1,macula lutea,Chen_ancestry
+MMD_22_37117,MMD_22_37117_RNA_macular,HRGC19,3,macula lutea,Chen_ancestry
+MMD_22_37117,MMD_22_37117_RNA_macular,HRGC20,3,macula lutea,Chen_ancestry
+MMD_22_37117,MMD_22_37117_RNA_macular,HRGC7,11,macula lutea,Chen_ancestry
+MMD_22_37117,MMD_22_37117_RNA_macular,HRGC8,3,macula lutea,Chen_ancestry
+MMD_22_37117,MMD_22_37117_RNA_macular,HRGC9,1,macula lutea,Chen_ancestry
+MMD_22_37117,MMD_22_37117_RNA_macular,MG_OFF,343,macula lutea,Chen_ancestry
+MMD_22_37117,MMD_22_37117_RNA_macular,MG_ON,433,macula lutea,Chen_ancestry
+MMD_22_37117,MMD_22_37117_RNA_macular,PG_OFF,9,macula lutea,Chen_ancestry
+MMD_22_37117,MMD_22_37117_RNA_macular,PG_ON,2,macula lutea,Chen_ancestry
+MMD_22_37117,MMD_22_37117_RNA_macular_NeuN,DS_ON,6,macula lutea,Chen_ancestry
+MMD_22_37117,MMD_22_37117_RNA_macular_NeuN,HRGC10,10,macula lutea,Chen_ancestry
+MMD_22_37117,MMD_22_37117_RNA_macular_NeuN,HRGC11,5,macula lutea,Chen_ancestry
+MMD_22_37117,MMD_22_37117_RNA_macular_NeuN,HRGC12,20,macula lutea,Chen_ancestry
+MMD_22_37117,MMD_22_37117_RNA_macular_NeuN,HRGC13,1,macula lutea,Chen_ancestry
+MMD_22_37117,MMD_22_37117_RNA_macular_NeuN,HRGC14,6,macula lutea,Chen_ancestry
+MMD_22_37117,MMD_22_37117_RNA_macular_NeuN,HRGC15,9,macula lutea,Chen_ancestry
+MMD_22_37117,MMD_22_37117_RNA_macular_NeuN,HRGC16,2,macula lutea,Chen_ancestry
+MMD_22_37117,MMD_22_37117_RNA_macular_NeuN,HRGC17,13,macula lutea,Chen_ancestry
+MMD_22_37117,MMD_22_37117_RNA_macular_NeuN,HRGC18,6,macula lutea,Chen_ancestry
+MMD_22_37117,MMD_22_37117_RNA_macular_NeuN,HRGC19,8,macula lutea,Chen_ancestry
+MMD_22_37117,MMD_22_37117_RNA_macular_NeuN,HRGC20,2,macula lutea,Chen_ancestry
+MMD_22_37117,MMD_22_37117_RNA_macular_NeuN,HRGC21,1,macula lutea,Chen_ancestry
+MMD_22_37117,MMD_22_37117_RNA_macular_NeuN,HRGC22,15,macula lutea,Chen_ancestry
+MMD_22_37117,MMD_22_37117_RNA_macular_NeuN,HRGC23,1,macula lutea,Chen_ancestry
+MMD_22_37117,MMD_22_37117_RNA_macular_NeuN,HRGC7,189,macula lutea,Chen_ancestry
+MMD_22_37117,MMD_22_37117_RNA_macular_NeuN,HRGC8,11,macula lutea,Chen_ancestry
+MMD_22_37117,MMD_22_37117_RNA_macular_NeuN,HRGC9,22,macula lutea,Chen_ancestry
+MMD_22_37117,MMD_22_37117_RNA_macular_NeuN,MG_OFF,4226,macula lutea,Chen_ancestry
+MMD_22_37117,MMD_22_37117_RNA_macular_NeuN,MG_ON,4870,macula lutea,Chen_ancestry
+MMD_22_37117,MMD_22_37117_RNA_macular_NeuN,PG_OFF,245,macula lutea,Chen_ancestry
+MMD_22_37117,MMD_22_37117_RNA_macular_NeuN,PG_ON,177,macula lutea,Chen_ancestry
+MMD_22_37117,MMD_22_37117_RNA_macular_NeuN,ipRGC,7,macula lutea,Chen_ancestry
+MMD_22_38029,MMD_22_38029_RNA_lobe,MG_OFF,10,peripheral region of retina,Chen_ancestry
+MMD_22_38029,MMD_22_38029_RNA_lobe,MG_ON,10,peripheral region of retina,Chen_ancestry
+MMD_22_38029,MMD_22_38029_RNA_macular,HRGC11,3,macula lutea,Chen_ancestry
+MMD_22_38029,MMD_22_38029_RNA_macular,HRGC8,1,macula lutea,Chen_ancestry
+MMD_22_38029,MMD_22_38029_RNA_macular,MG_OFF,1,macula lutea,Chen_ancestry
+MMD_22_38029,MMD_22_38029_RNA_macular_NeuN,HRGC11,1,macula lutea,Chen_ancestry
+MMD_22_38029,MMD_22_38029_RNA_macular_NeuN,HRGC7,15,macula lutea,Chen_ancestry
+MMD_22_38029,MMD_22_38029_RNA_macular_NeuN,HRGC8,6,macula lutea,Chen_ancestry
+MMD_22_38029,MMD_22_38029_RNA_macular_NeuN,HRGC9,1,macula lutea,Chen_ancestry
+MMD_22_38029,MMD_22_38029_RNA_macular_NeuN,MG_OFF,55,macula lutea,Chen_ancestry
+MMD_22_38029,MMD_22_38029_RNA_macular_NeuN,MG_ON,58,macula lutea,Chen_ancestry
+MMD_22_38029,MMD_22_38029_RNA_macular_NeuN,PG_OFF,9,macula lutea,Chen_ancestry
+MMD_22_38029,MMD_22_38029_RNA_macular_NeuN,PG_ON,6,macula lutea,Chen_ancestry
+MMD_22_38029,MMD_22_38029_RNA_macular_NeuN,ipRGC,2,macula lutea,Chen_ancestry
+MMD_22_38453,MMD_22_38453_RNA_macular,MG_OFF,33,macula lutea,Chen_ancestry
+MMD_22_38453,MMD_22_38453_RNA_macular,MG_ON,40,macula lutea,Chen_ancestry
+MMD_22_38453,MMD_22_38453_RNA_macular_NeuN,DS_ON,4,macula lutea,Chen_ancestry
+MMD_22_38453,MMD_22_38453_RNA_macular_NeuN,HRGC10,22,macula lutea,Chen_ancestry
+MMD_22_38453,MMD_22_38453_RNA_macular_NeuN,HRGC11,3,macula lutea,Chen_ancestry
+MMD_22_38453,MMD_22_38453_RNA_macular_NeuN,HRGC12,10,macula lutea,Chen_ancestry
+MMD_22_38453,MMD_22_38453_RNA_macular_NeuN,HRGC14,7,macula lutea,Chen_ancestry
+MMD_22_38453,MMD_22_38453_RNA_macular_NeuN,HRGC15,11,macula lutea,Chen_ancestry
+MMD_22_38453,MMD_22_38453_RNA_macular_NeuN,HRGC17,4,macula lutea,Chen_ancestry
+MMD_22_38453,MMD_22_38453_RNA_macular_NeuN,HRGC18,6,macula lutea,Chen_ancestry
+MMD_22_38453,MMD_22_38453_RNA_macular_NeuN,HRGC21,1,macula lutea,Chen_ancestry
+MMD_22_38453,MMD_22_38453_RNA_macular_NeuN,HRGC23,6,macula lutea,Chen_ancestry
+MMD_22_38453,MMD_22_38453_RNA_macular_NeuN,HRGC7,63,macula lutea,Chen_ancestry
+MMD_22_38453,MMD_22_38453_RNA_macular_NeuN,HRGC8,5,macula lutea,Chen_ancestry
+MMD_22_38453,MMD_22_38453_RNA_macular_NeuN,HRGC9,16,macula lutea,Chen_ancestry
+MMD_22_38453,MMD_22_38453_RNA_macular_NeuN,MG_OFF,525,macula lutea,Chen_ancestry
+MMD_22_38453,MMD_22_38453_RNA_macular_NeuN,MG_ON,449,macula lutea,Chen_ancestry
+MMD_22_38453,MMD_22_38453_RNA_macular_NeuN,PG_OFF,60,macula lutea,Chen_ancestry
+MMD_22_38453,MMD_22_38453_RNA_macular_NeuN,PG_ON,90,macula lutea,Chen_ancestry
+MMD_22_38453,MMD_22_38453_RNA_macular_NeuN,ipRGC,4,macula lutea,Chen_ancestry
+MMD_23_01524,MMD_23_01524_RNA_macular,HRGC11,17,macula lutea,Chen_ancestry
+MMD_23_01524,MMD_23_01524_RNA_macular,HRGC20,2,macula lutea,Chen_ancestry
+MMD_23_01524,MMD_23_01524_RNA_macular,HRGC7,13,macula lutea,Chen_ancestry
+MMD_23_01524,MMD_23_01524_RNA_macular,HRGC8,10,macula lutea,Chen_ancestry
+MMD_23_01524,MMD_23_01524_RNA_macular,MG_OFF,240,macula lutea,Chen_ancestry
+MMD_23_01524,MMD_23_01524_RNA_macular,MG_ON,171,macula lutea,Chen_ancestry
+MMD_23_01524,MMD_23_01524_RNA_macular,PG_OFF,9,macula lutea,Chen_ancestry
+MMD_23_01524,MMD_23_01524_RNA_macular,PG_ON,2,macula lutea,Chen_ancestry
+MMD_23_02177,MMD_23_02177_RNA_macular,HRGC11,18,macula lutea,Chen_ancestry
+MMD_23_02177,MMD_23_02177_RNA_macular,HRGC19,2,macula lutea,Chen_ancestry
+MMD_23_02177,MMD_23_02177_RNA_macular,HRGC20,3,macula lutea,Chen_ancestry
+MMD_23_02177,MMD_23_02177_RNA_macular,HRGC7,8,macula lutea,Chen_ancestry
+MMD_23_02177,MMD_23_02177_RNA_macular,HRGC8,9,macula lutea,Chen_ancestry
+MMD_23_02177,MMD_23_02177_RNA_macular,MG_OFF,231,macula lutea,Chen_ancestry
+MMD_23_02177,MMD_23_02177_RNA_macular,MG_ON,132,macula lutea,Chen_ancestry
+MMD_23_02177,MMD_23_02177_RNA_macular,PG_OFF,1,macula lutea,Chen_ancestry
+MMD_23_02177,MMD_23_02177_RNA_macular,PG_ON,4,macula lutea,Chen_ancestry
+MMD_23_16055,MMD_23_16055_RNA_macular,MG_OFF,149,macula lutea,Chen_ancestry
+MMD_23_16055,MMD_23_16055_RNA_macular,MG_ON,85,macula lutea,Chen_ancestry
+MMD_23_17738,MMD_23_17738_RNA_macular,MG_OFF,152,macula lutea,Chen_ancestry
+MMD_23_17738,MMD_23_17738_RNA_macular,MG_ON,95,macula lutea,Chen_ancestry
+MMD_23_21623,MMD_23_21623_RNA_macular,MG_OFF,7,macula lutea,Chen_ancestry
+MMD_23_21623,MMD_23_21623_RNA_macular,MG_ON,26,macula lutea,Chen_ancestry
+MMD_23_21999,MMD_23_21999_RNA_macular,MG_OFF,64,macula lutea,Chen_ancestry
+MMD_23_21999,MMD_23_21999_RNA_macular,MG_ON,77,macula lutea,Chen_ancestry
+MMD_23_22486,MMD_23_22486_RNA_macular,MG_OFF,244,macula lutea,Chen_ancestry
+MMD_23_22486,MMD_23_22486_RNA_macular,MG_ON,166,macula lutea,Chen_ancestry
+"pooled [0150-19,0194-19,0978-18]",GSM7596860,DS_ON,6,macula lutea,Shekhar_GSE237204
+"pooled [0150-19,0194-19,0978-18]",GSM7596860,HRGC10,10,macula lutea,Shekhar_GSE237204
+"pooled [0150-19,0194-19,0978-18]",GSM7596860,HRGC12,12,macula lutea,Shekhar_GSE237204
+"pooled [0150-19,0194-19,0978-18]",GSM7596860,HRGC14,5,macula lutea,Shekhar_GSE237204
+"pooled [0150-19,0194-19,0978-18]",GSM7596860,HRGC15,7,macula lutea,Shekhar_GSE237204
+"pooled [0150-19,0194-19,0978-18]",GSM7596860,HRGC17,4,macula lutea,Shekhar_GSE237204
+"pooled [0150-19,0194-19,0978-18]",GSM7596860,HRGC18,3,macula lutea,Shekhar_GSE237204
+"pooled [0150-19,0194-19,0978-18]",GSM7596860,HRGC20,1,macula lutea,Shekhar_GSE237204
+"pooled [0150-19,0194-19,0978-18]",GSM7596860,HRGC21,9,macula lutea,Shekhar_GSE237204
+"pooled [0150-19,0194-19,0978-18]",GSM7596860,HRGC22,1,macula lutea,Shekhar_GSE237204
+"pooled [0150-19,0194-19,0978-18]",GSM7596860,HRGC23,3,macula lutea,Shekhar_GSE237204
+"pooled [0150-19,0194-19,0978-18]",GSM7596860,HRGC7,101,macula lutea,Shekhar_GSE237204
+"pooled [0150-19,0194-19,0978-18]",GSM7596860,HRGC8,3,macula lutea,Shekhar_GSE237204
+"pooled [0150-19,0194-19,0978-18]",GSM7596860,HRGC9,11,macula lutea,Shekhar_GSE237204
+"pooled [0150-19,0194-19,0978-18]",GSM7596860,MG_OFF,3655,macula lutea,Shekhar_GSE237204
+"pooled [0150-19,0194-19,0978-18]",GSM7596860,MG_ON,2595,macula lutea,Shekhar_GSE237204
+"pooled [0150-19,0194-19,0978-18]",GSM7596860,PG_OFF,102,macula lutea,Shekhar_GSE237204
+"pooled [0150-19,0194-19,0978-18]",GSM7596860,PG_ON,124,macula lutea,Shekhar_GSE237204
+"pooled [0150-19,0194-19,0978-18]",GSM7596860,ipRGC,11,macula lutea,Shekhar_GSE237204
+"pooled [1017-17,1053-17,1005-17]",GSM7596861,DS_ON,3,macula lutea,Shekhar_GSE237204
+"pooled [1017-17,1053-17,1005-17]",GSM7596861,HRGC10,16,macula lutea,Shekhar_GSE237204
+"pooled [1017-17,1053-17,1005-17]",GSM7596861,HRGC11,2,macula lutea,Shekhar_GSE237204
+"pooled [1017-17,1053-17,1005-17]",GSM7596861,HRGC12,12,macula lutea,Shekhar_GSE237204
+"pooled [1017-17,1053-17,1005-17]",GSM7596861,HRGC13,1,macula lutea,Shekhar_GSE237204
+"pooled [1017-17,1053-17,1005-17]",GSM7596861,HRGC14,13,macula lutea,Shekhar_GSE237204
+"pooled [1017-17,1053-17,1005-17]",GSM7596861,HRGC15,17,macula lutea,Shekhar_GSE237204
+"pooled [1017-17,1053-17,1005-17]",GSM7596861,HRGC16,2,macula lutea,Shekhar_GSE237204
+"pooled [1017-17,1053-17,1005-17]",GSM7596861,HRGC17,14,macula lutea,Shekhar_GSE237204
+"pooled [1017-17,1053-17,1005-17]",GSM7596861,HRGC18,7,macula lutea,Shekhar_GSE237204
+"pooled [1017-17,1053-17,1005-17]",GSM7596861,HRGC21,6,macula lutea,Shekhar_GSE237204
+"pooled [1017-17,1053-17,1005-17]",GSM7596861,HRGC22,1,macula lutea,Shekhar_GSE237204
+"pooled [1017-17,1053-17,1005-17]",GSM7596861,HRGC23,1,macula lutea,Shekhar_GSE237204
+"pooled [1017-17,1053-17,1005-17]",GSM7596861,HRGC7,132,macula lutea,Shekhar_GSE237204
+"pooled [1017-17,1053-17,1005-17]",GSM7596861,HRGC8,5,macula lutea,Shekhar_GSE237204
+"pooled [1017-17,1053-17,1005-17]",GSM7596861,HRGC9,24,macula lutea,Shekhar_GSE237204
+"pooled [1017-17,1053-17,1005-17]",GSM7596861,MG_OFF,3269,macula lutea,Shekhar_GSE237204
+"pooled [1017-17,1053-17,1005-17]",GSM7596861,MG_ON,2224,macula lutea,Shekhar_GSE237204
+"pooled [1017-17,1053-17,1005-17]",GSM7596861,PG_OFF,120,macula lutea,Shekhar_GSE237204
+"pooled [1017-17,1053-17,1005-17]",GSM7596861,PG_ON,107,macula lutea,Shekhar_GSE237204
+"pooled [1017-17,1053-17,1005-17]",GSM7596861,ipRGC,8,macula lutea,Shekhar_GSE237204
+"pooled [BCM_22_0200,BCM_23_0491]",BCM_22_0200_BCM_23_0491_RNA_fovea,HRGC10,1,fovea centralis,Chen_ancestry
+"pooled [BCM_22_0200,BCM_23_0491]",BCM_22_0200_BCM_23_0491_RNA_fovea,HRGC11,1,fovea centralis,Chen_ancestry
+"pooled [BCM_22_0200,BCM_23_0491]",BCM_22_0200_BCM_23_0491_RNA_fovea,HRGC12,2,fovea centralis,Chen_ancestry
+"pooled [BCM_22_0200,BCM_23_0491]",BCM_22_0200_BCM_23_0491_RNA_fovea,HRGC13,16,fovea centralis,Chen_ancestry
+"pooled [BCM_22_0200,BCM_23_0491]",BCM_22_0200_BCM_23_0491_RNA_fovea,HRGC19,1,fovea centralis,Chen_ancestry
+"pooled [BCM_22_0200,BCM_23_0491]",BCM_22_0200_BCM_23_0491_RNA_fovea,HRGC22,1,fovea centralis,Chen_ancestry
+"pooled [BCM_22_0200,BCM_23_0491]",BCM_22_0200_BCM_23_0491_RNA_fovea,HRGC7,2,fovea centralis,Chen_ancestry
+"pooled [BCM_22_0200,BCM_23_0491]",BCM_22_0200_BCM_23_0491_RNA_fovea,HRGC8,4,fovea centralis,Chen_ancestry
+"pooled [BCM_22_0200,BCM_23_0491]",BCM_22_0200_BCM_23_0491_RNA_fovea,HRGC9,1,fovea centralis,Chen_ancestry
+"pooled [BCM_22_0200,BCM_23_0491]",BCM_22_0200_BCM_23_0491_RNA_fovea,MG_OFF,179,fovea centralis,Chen_ancestry
+"pooled [BCM_22_0200,BCM_23_0491]",BCM_22_0200_BCM_23_0491_RNA_fovea,MG_ON,74,fovea centralis,Chen_ancestry
+"pooled [BCM_22_0200,BCM_23_0491]",BCM_22_0200_BCM_23_0491_RNA_fovea,PG_OFF,13,fovea centralis,Chen_ancestry
+"pooled [BCM_22_0200,BCM_23_0491]",BCM_22_0200_BCM_23_0491_RNA_fovea,PG_ON,6,fovea centralis,Chen_ancestry
+"pooled [BCM_22_0200,BCM_23_0491]",BCM_22_0200_BCM_23_0491_RNA_fovea,ipRGC,3,fovea centralis,Chen_ancestry
+"pooled [Chen_D018_13,Chen_D017_13]",Chen_a_10x_Lobe_D017_18_13_NeuN,MG_OFF,133,peripheral region of retina,Chen_a
+"pooled [Chen_D018_13,Chen_D017_13]",Chen_a_10x_Lobe_D017_18_13_NeuN,MG_ON,47,peripheral region of retina,Chen_a
+"pooled [Chen_D018_13,Chen_D017_13]",Chen_a_10x_Lobe_D017_18_13_Nu,MG_OFF,7,peripheral region of retina,Chen_a
+"pooled [Chen_D018_13,Chen_D017_13]",Chen_a_10x_Lobe_D017_18_13_Nu,MG_ON,5,peripheral region of retina,Chen_a
+"pooled [Chen_D018_13,Chen_D026_13]",Chen_a_10x_Lobe_D018_26_13_NeuN,MG_OFF,21,peripheral region of retina,Chen_a
+"pooled [Chen_D018_13,Chen_D026_13]",Chen_a_10x_Lobe_D018_26_13_NeuN,MG_ON,4,peripheral region of retina,Chen_a
+"pooled [Hu0220,Hu0235]",GSM7596855,MG_OFF,110,macula lutea,Shekhar_GSE237204
+"pooled [Hu0220,Hu0235]",GSM7596855,MG_ON,49,macula lutea,Shekhar_GSE237204
+"pooled [Hu0326,Hu0355]",GSM7596863,DS_ON,1,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0326,Hu0355]",GSM7596863,HRGC10,2,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0326,Hu0355]",GSM7596863,HRGC12,1,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0326,Hu0355]",GSM7596863,HRGC14,1,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0326,Hu0355]",GSM7596863,HRGC15,3,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0326,Hu0355]",GSM7596863,HRGC16,1,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0326,Hu0355]",GSM7596863,HRGC17,4,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0326,Hu0355]",GSM7596863,HRGC21,6,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0326,Hu0355]",GSM7596863,HRGC22,1,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0326,Hu0355]",GSM7596863,HRGC23,10,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0326,Hu0355]",GSM7596863,HRGC7,18,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0326,Hu0355]",GSM7596863,HRGC9,4,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0326,Hu0355]",GSM7596863,MG_OFF,1053,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0326,Hu0355]",GSM7596863,MG_ON,416,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0326,Hu0355]",GSM7596863,PG_OFF,31,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0326,Hu0355]",GSM7596863,PG_ON,7,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0326,Hu0355]",GSM7596863,ipRGC,1,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0564,Hu1059]",GSM7596862,DS_ON,1,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0564,Hu1059]",GSM7596862,HRGC11,1,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0564,Hu1059]",GSM7596862,HRGC14,2,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0564,Hu1059]",GSM7596862,HRGC17,1,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0564,Hu1059]",GSM7596862,HRGC7,6,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0564,Hu1059]",GSM7596862,HRGC8,2,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0564,Hu1059]",GSM7596862,HRGC9,1,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0564,Hu1059]",GSM7596862,MG_OFF,482,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0564,Hu1059]",GSM7596862,MG_ON,131,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0564,Hu1059]",GSM7596862,PG_ON,7,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0564,Hu1059]",GSM7596862,ipRGC,1,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0869,Hu0887]",GSM7596865,DS_ON,3,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0869,Hu0887]",GSM7596865,HRGC10,10,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0869,Hu0887]",GSM7596865,HRGC11,1,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0869,Hu0887]",GSM7596865,HRGC14,5,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0869,Hu0887]",GSM7596865,HRGC15,4,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0869,Hu0887]",GSM7596865,HRGC16,1,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0869,Hu0887]",GSM7596865,HRGC17,1,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0869,Hu0887]",GSM7596865,HRGC21,6,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0869,Hu0887]",GSM7596865,HRGC22,1,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0869,Hu0887]",GSM7596865,HRGC23,6,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0869,Hu0887]",GSM7596865,HRGC7,25,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0869,Hu0887]",GSM7596865,HRGC9,11,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0869,Hu0887]",GSM7596865,MG_OFF,524,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0869,Hu0887]",GSM7596865,MG_ON,663,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0869,Hu0887]",GSM7596865,PG_OFF,44,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0869,Hu0887]",GSM7596865,PG_ON,16,peripheral region of retina,Shekhar_GSE237204
+"pooled [Hu0869,Hu0887]",GSM7596865,ipRGC,7,peripheral region of retina,Shekhar_GSE237204
+sanes2022_Hu082219,GSM7596848,HRGC10,2,macula lutea,Shekhar_GSE237204
+sanes2022_Hu082219,GSM7596848,HRGC11,3,macula lutea,Shekhar_GSE237204
+sanes2022_Hu082219,GSM7596848,HRGC15,5,macula lutea,Shekhar_GSE237204
+sanes2022_Hu082219,GSM7596848,HRGC17,2,macula lutea,Shekhar_GSE237204
+sanes2022_Hu082219,GSM7596848,HRGC19,1,macula lutea,Shekhar_GSE237204
+sanes2022_Hu082219,GSM7596848,HRGC21,5,macula lutea,Shekhar_GSE237204
+sanes2022_Hu082219,GSM7596848,HRGC23,1,macula lutea,Shekhar_GSE237204
+sanes2022_Hu082219,GSM7596848,HRGC7,10,macula lutea,Shekhar_GSE237204
+sanes2022_Hu082219,GSM7596848,HRGC8,3,macula lutea,Shekhar_GSE237204
+sanes2022_Hu082219,GSM7596848,HRGC9,4,macula lutea,Shekhar_GSE237204
+sanes2022_Hu082219,GSM7596848,MG_OFF,207,macula lutea,Shekhar_GSE237204
+sanes2022_Hu082219,GSM7596848,MG_ON,145,macula lutea,Shekhar_GSE237204
+sanes2022_Hu082219,GSM7596848,PG_OFF,3,macula lutea,Shekhar_GSE237204
+sanes2022_Hu082219,GSM7596848,PG_ON,7,macula lutea,Shekhar_GSE237204
+sanes2022_Hu082219,GSM7596848,ipRGC,1,macula lutea,Shekhar_GSE237204
