@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+*.h5ad
+*.npz
+*.npy
+/mouse_*.csv.gz
+/analysis/mouse_atlas.csv.gz
