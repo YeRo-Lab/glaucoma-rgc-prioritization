@@ -1,7 +1,5 @@
 # Human RGC Subtype and Candidate Target Prioritization in Glaucoma
 
-Author: Yeganeh Madadi, Computer Science Department, Appalachian State University, NC, USA.
-
 This repository contains the computational analysis underlying the manuscript. It contains numerical results, the 50-gene panel, the 44-gene mouse candidate set, 33 qualifying human gene–subtype pairs, figures, source annotations, analysis scripts, source checksums, and a verification report. Raw matrices are not bundled because the human file alone is 7.34 GB.
 
 ## Scope and interpretation
